@@ -1,0 +1,2560 @@
+property_type,price,city,baths,bedrooms,Area Type,Area Size
+Flat,3965000,Islamabad,2,2,Marla,4.2
+Flat,3760000,Karachi,2,2,Marla,5.2
+Flat,5656000,Islamabad,2,2,Marla,3.6
+Flat,35100000,Karachi,3,3,Marla,12.2
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,4848000,Karachi,3,3,Marla,3.6
+Flat,5049000,Karachi,2,0,Marla,4.0
+House,32900000,Lahore,5,4,Marla,10.0
+Flat,4790000,Karachi,2,2,Marla,4.2
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+House,6642000,Karachi,3,3,Marla,5.0
+House,37900000,Islamabad,6,6,Marla,14.2
+Flat,31100000,Islamabad,0,1,Marla,5.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,2997000,Islamabad,2,2,Marla,3.0
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,9743000,Karachi,4,3,Marla,9.6
+Flat,4666000,Karachi,3,2,Marla,5.8
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,2120000,Karachi,1,2,Marla,8.1
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,7913000,Lahore,1,1,Marla,1.7
+Flat,3230000,Karachi,0,2,Marla,5.2
+Flat,3230000,Karachi,2,2,Marla,5.2
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,1225000,Karachi,0,1,Marla,1.6
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,4290000,Islamabad,2,1,Marla,2.8
+House,4930000,Lahore,3,5,Marla,5.0
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,6365000,Islamabad,1,1,Marla,4.2
+Flat,235000,Islamabad,4,3,Marla,11.7
+Flat,2175000,Lahore,0,0,Marla,2.8
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,5136000,Karachi,3,3,Marla,7.1
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,7966000,Karachi,3,3,Marla,5.6
+Flat,3360000,Islamabad,2,1,Marla,2.1
+House,4949000,Lahore,0,3,Marla,3.0
+Flat,3380000,Karachi,0,0,Marla,3.4
+Flat,61230,Karachi,1,1,Marla,2.0
+Flat,2632000,Islamabad,2,2,Marla,2.6
+Flat,7997000,Karachi,3,3,Marla,5.6
+Flat,4790000,Karachi,2,2,Marla,4.2
+Flat,1825000,Karachi,1,1,Marla,2.0
+Flat,2975000,Islamabad,2,2,Marla,3.0
+House,2220000,Lahore,1,2,Marla,3.3
+Flat,3485000,Islamabad,2,1,Marla,1.9
+House,7825000,Lahore,5,4,Marla,5.0
+House,7860000,Lahore,5,4,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,4190000,Lahore,3,3,Marla,3.0
+Flat,8405000,Islamabad,3,3,Marla,9.1
+House,23460,Islamabad,3,3,Marla,10.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,2885000,Islamabad,2,3,Marla,3.0
+Flat,3762000,Karachi,2,2,Marla,5.2
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,5136000,Karachi,4,3,Marla,7.1
+Flat,4666000,Karachi,3,2,Marla,5.8
+Flat,138000,Islamabad,0,3,Marla,9.3
+Flat,133000,Islamabad,0,3,Marla,9.3
+House,4190000,Lahore,2,2,Marla,3.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3825000,Islamabad,0,0,Marla,2.0
+House,5083000,Islamabad,2,2,Marla,4.0
+House,3735000,Lahore,6,5,Marla,10.0
+House,6243000,Karachi,3,4,Marla,5.0
+Flat,167000,Islamabad,0,3,Marla,9.3
+Flat,162000,Islamabad,0,3,Marla,9.3
+Flat,161000,Islamabad,0,3,Marla,9.3
+Flat,2430000,Karachi,2,3,Marla,3.1
+Flat,1904000,Lahore,0,0,Marla,2.1
+House,6470000,Faisalabad,3,6,Marla,3.0
+Flat,2195000,Lahore,1,1,Marla,2.2
+Penthouse,43700000,Karachi,0,4,Marla,9.6
+Flat,5160000,Lahore,1,1,Marla,2.3
+Flat,2225000,Lahore,1,1,Marla,1.6
+Flat,1845000,Islamabad,1,1,Marla,3.1
+House,4190000,Lahore,3,3,Marla,3.0
+Flat,2890000,Lahore,1,2,Marla,5.0
+Flat,1630000,Karachi,0,0,Marla,3.5
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4665000,Karachi,2,2,Marla,5.8
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4797000,Karachi,4,3,Marla,6.7
+Flat,4090000,Karachi,2,2,Marla,5.7
+Flat,5136000,Karachi,3,3,Marla,7.1
+Flat,7849000,Islamabad,3,3,Marla,7.9
+Flat,6293000,Karachi,3,2,Marla,6.3
+Flat,9547000,Karachi,4,3,Marla,9.6
+Flat,7960000,Karachi,4,3,Marla,9.8
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4090000,Karachi,2,2,Marla,5.7
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,5136000,Karachi,3,3,Marla,7.1
+House,6642000,Karachi,3,3,Marla,5.0
+House,12350,Islamabad,0,0,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4666000,Karachi,2,2,Marla,5.8
+Flat,7960000,Karachi,3,3,Marla,9.8
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4090000,Karachi,2,2,Marla,5.7
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4665000,Karachi,3,2,Marla,5.8
+Flat,4665000,Karachi,3,2,Marla,5.8
+Flat,4665000,Karachi,3,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4665000,Karachi,3,2,Marla,5.8
+Flat,7960000,Karachi,4,3,Marla,9.8
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3255000,Rawalpindi,1,1,Marla,2.1
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4797000,Karachi,4,3,Marla,6.7
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,4,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,4,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,3763000,Karachi,2,2,Marla,5.2
+House,4690000,Lahore,3,3,Marla,3.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,4796000,Karachi,4,3,Marla,6.7
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,5136000,Karachi,4,3,Marla,7.1
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,4979000,Islamabad,0,0,Marla,3.0
+Flat,1775000,Karachi,1,1,Marla,1.8
+Flat,8416000,Karachi,2,2,Marla,4.7
+Flat,2860000,Rawalpindi,1,1,Marla,1.3
+Flat,397000,Islamabad,2,2,Marla,7.6
+Flat,4490000,Lahore,3,3,Marla,3.0
+Flat,35700000,Lahore,2,2,Marla,10.0
+House,8350000,Lahore,4,3,Marla,4.0
+House,3190000,Lahore,2,3,Marla,3.0
+Flat,5180000,Islamabad,2,2,Marla,3.3
+Flat,7294000,Islamabad,3,3,Marla,4.6
+House,4595000,Karachi,0,0,Marla,4.8
+House,6642000,Karachi,3,3,Marla,5.0
+Upper Portion,2630000,Karachi,0,0,Marla,3.2
+House,2290000,Lahore,2,2,Marla,3.0
+Lower Portion,23080,Islamabad,2,2,Marla,7.0
+Lower Portion,6548000,Karachi,3,3,Marla,4.8
+Flat,3006000,Lahore,1,1,Marla,1.5
+Flat,4392000,Lahore,1,1,Marla,2.2
+Flat,4581000,Lahore,1,1,Marla,2.3
+Flat,4635000,Lahore,1,1,Marla,2.3
+Flat,4248000,Lahore,1,1,Marla,2.1
+Flat,4340000,Lahore,1,1,Marla,2.1
+Flat,4410000,Lahore,1,1,Marla,2.2
+Flat,4240000,Lahore,1,1,Marla,2.1
+House,4645000,Lahore,0,0,Marla,2.1
+House,2485000,Faisalabad,2,2,Marla,2.5
+House,3125000,Karachi,3,3,Marla,5.0
+House,5420000,Islamabad,3,2,Marla,5.0
+Flat,3517000,Lahore,1,2,Marla,2.0
+House,330000,Karachi,2,2,Marla,10.0
+House,9599000,Rawalpindi,5,4,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,4490000,Lahore,4,3,Marla,3.0
+Flat,1790000,Lahore,1,1,Marla,1.0
+Flat,6169000,Lahore,1,1,Marla,1.8
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,3975000,Islamabad,0,1,Marla,1.6
+Flat,6325000,Islamabad,0,2,Marla,3.3
+Flat,5499000,Karachi,2,2,Marla,4.0
+House,2880000,Lahore,2,2,Marla,1.5
+House,6299000,Lahore,3,3,Marla,4.0
+Flat,201000,Islamabad,2,2,Marla,3.6
+Penthouse,6372000,Faisalabad,2,2,Marla,3.1
+House,44800000,Karachi,6,6,Marla,10.6
+Upper Portion,1725000,Lahore,1,2,Marla,3.0
+Flat,7613000,Lahore,2,2,Marla,3.9
+Flat,7889000,Karachi,3,3,Marla,5.9
+Flat,4680000,Islamabad,2,2,Marla,3.6
+Flat,1980000,Lahore,1,2,Marla,2.0
+House,6170000,Faisalabad,0,0,Marla,5.0
+House,6642000,Karachi,0,0,Marla,5.0
+Flat,450000,Islamabad,2,0,Marla,8.0
+House,9225000,Lahore,3,3,Marla,5.0
+Flat,2510000,Karachi,0,0,Marla,4.8
+Flat,3490000,Karachi,2,4,Marla,4.4
+Flat,2875000,Karachi,1,1,Marla,2.0
+Flat,35900000,Islamabad,3,3,Marla,9.3
+Flat,5576000,Islamabad,1,1,Marla,3.1
+Flat,4680000,Islamabad,2,2,Marla,3.6
+Room,1800,Rawalpindi,0,0,Marla,1.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,5,Karachi,4,4,Marla,12.0
+Flat,3570000,Islamabad,1,1,Marla,1.9
+House,4995000,Lahore,4,4,Marla,3.0
+House,3775000,Lahore,0,0,Marla,3.5
+House,7470000,Karachi,3,3,Marla,6.4
+Flat,4392000,Lahore,0,1,Marla,2.2
+Flat,3975000,Islamabad,0,1,Marla,1.6
+Flat,6325000,Islamabad,0,2,Marla,3.3
+House,3399000,Lahore,2,2,Marla,2.0
+House,149000,Karachi,5,5,Marla,14.0
+Flat,4680000,Islamabad,2,2,Marla,3.6
+Flat,3825000,Islamabad,1,1,Marla,2.0
+House,5349000,Lahore,0,0,Marla,5.0
+House,6642000,Karachi,3,3,Marla,5.0
+House,5556000,Rawalpindi,5,5,Marla,5.0
+House,6,Karachi,4,4,Marla,6.0
+House,3455000,Lahore,2,3,Marla,3.0
+House,7095000,Rawalpindi,4,4,Marla,4.0
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,9715000,Lahore,2,2,Marla,5.1
+Flat,6840000,Karachi,2,2,Marla,3.8
+Flat,6840000,Karachi,2,2,Marla,3.8
+Flat,4842000,Islamabad,0,2,Marla,3.3
+Flat,8130000,Lahore,0,0,Marla,4.8
+Flat,8130000,Lahore,0,0,Marla,4.8
+Flat,8130000,Lahore,0,0,Marla,4.8
+Flat,8130000,Lahore,0,0,Marla,4.8
+Flat,8130000,Lahore,0,1,Marla,4.8
+Flat,8130000,Lahore,0,0,Marla,4.8
+Flat,2499000,Karachi,2,2,Marla,4.0
+House,273000,Islamabad,5,4,Marla,10.0
+House,4490000,Lahore,4,3,Marla,3.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Flat,4223000,Karachi,2,2,Marla,3.5
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23300,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Flat,3819000,Lahore,2,2,Marla,2.7
+House,31300000,Lahore,6,5,Marla,10.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23700,Rawalpindi,0,0,Marla,7.0
+Upper Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,23700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,24700,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+House,4480000,Islamabad,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,6273000,Islamabad,1,1,Marla,3.1
+Flat,3825000,Islamabad,0,1,Marla,2.0
+Flat,265000,Karachi,3,3,Marla,9.3
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,0,0,Marla,3.0
+Flat,4272000,Islamabad,1,1,Marla,2.4
+House,2290000,Lahore,2,2,Marla,3.0
+House,5480000,Islamabad,4,3,Marla,8.0
+Flat,5410000,Islamabad,2,2,Marla,5.0
+Flat,4720000,Islamabad,2,2,Marla,4.2
+Flat,7410000,Islamabad,0,1,Marla,4.2
+Flat,7757000,Lahore,1,1,Marla,1.5
+House,4490000,Lahore,4,3,Marla,3.0
+Flat,5335000,Islamabad,2,2,Marla,6.0
+Flat,5099000,Islamabad,3,2,Marla,4.9
+Flat,4231000,Islamabad,1,1,Marla,2.9
+Flat,224000,Islamabad,2,2,Marla,8.0
+Flat,4255000,Islamabad,2,2,Marla,3.7
+House,5270000,Lahore,3,2,Marla,3.0
+Flat,3819000,Lahore,2,2,Marla,2.7
+House,4990000,Lahore,1,2,Marla,3.3
+Flat,3389000,Karachi,2,2,Marla,2.7
+Flat,3825000,Islamabad,1,1,Marla,2.0
+Flat,5390000,Islamabad,2,2,Marla,4.9
+House,4490000,Lahore,2,2,Marla,3.0
+Flat,2816000,Lahore,2,2,Marla,3.1
+Upper Portion,2290000,Lahore,0,2,Marla,3.0
+Flat,5520000,Lahore,2,2,Marla,3.3
+Flat,4583000,Islamabad,1,1,Marla,2.7
+Flat,5070000,Islamabad,2,2,Marla,4.2
+Flat,26200,Karachi,2,2,Marla,3.3
+Flat,79000,Karachi,4,3,Marla,8.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,3775000,Lahore,3,2,Marla,3.5
+House,4490000,Lahore,4,3,Marla,3.0
+Flat,4583000,Rawalpindi,1,1,Marla,2.7
+Flat,1801000,Rawalpindi,1,1,Marla,1.4
+House,3775000,Lahore,3,3,Marla,3.5
+Upper Portion,49990,Rawalpindi,3,3,Marla,7.0
+House,4495000,Lahore,4,4,Marla,2.7
+House,41500,Rawalpindi,0,3,Marla,8.0
+House,41500,Rawalpindi,0,3,Marla,8.0
+House,41500,Rawalpindi,0,3,Marla,8.0
+House,41500,Rawalpindi,0,3,Marla,8.0
+House,41500,Rawalpindi,0,3,Marla,8.0
+Upper Portion,22200,Rawalpindi,0,0,Marla,7.0
+Upper Portion,23800,Rawalpindi,0,0,Marla,7.0
+Lower Portion,25700,Rawalpindi,0,0,Marla,7.0
+Flat,3763000,Karachi,2,2,Marla,5.2
+Flat,252000,Islamabad,2,2,Marla,6.7
+Lower Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,37400000,Islamabad,0,0,Marla,7.6
+Flat,8872000,Islamabad,0,2,Marla,5.3
+Flat,4465000,Islamabad,0,0,Marla,4.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+House,178000,Karachi,4,4,Marla,12.0
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,2813000,Lahore,1,0,Marla,1.7
+Flat,4499000,Karachi,0,0,Marla,4.0
+Flat,1235000,Karachi,1,2,Marla,2.0
+Flat,5220000,Islamabad,3,3,Marla,5.8
+House,33300000,Islamabad,0,0,Marla,14.6
+Flat,5915000,Rawalpindi,0,2,Marla,5.3
+Flat,4583000,Islamabad,2,1,Marla,2.7
+Flat,5724000,Islamabad,2,2,Marla,4.2
+Flat,5448000,Islamabad,1,1,Marla,2.8
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,2290000,Lahore,2,2,Marla,3.0
+Flat,4583000,Rawalpindi,1,1,Marla,2.7
+Flat,5724000,Islamabad,3,2,Marla,4.2
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,6958000,Lahore,2,2,Marla,6.5
+House,4490000,Lahore,3,3,Marla,3.0
+House,2290000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,5724000,Islamabad,2,2,Marla,4.2
+Room,4500,Rawalpindi,1,1,Marla,10.0
+Flat,4583000,Rawalpindi,1,1,Marla,2.7
+Flat,4583000,Rawalpindi,1,1,Marla,2.7
+Flat,2670000,Karachi,2,2,Marla,4.0
+Flat,7410000,Islamabad,1,1,Marla,4.2
+House,32600000,Faisalabad,0,0,Marla,7.0
+House,4575000,Faisalabad,3,3,Marla,5.0
+Flat,3764000,Faisalabad,0,0,Marla,2.4
+Flat,2744000,Rawalpindi,0,1,Marla,2.1
+Flat,3578000,Rawalpindi,0,1,Marla,2.7
+Flat,7521000,Rawalpindi,0,3,Marla,5.8
+House,4490000,Lahore,0,0,Marla,3.0
+Flat,1027000,Lahore,0,2,Marla,1.4
+Flat,5247000,Islamabad,0,0,Marla,4.2
+Flat,488000,Islamabad,3,3,Marla,8.0
+Flat,5360000,Faisalabad,0,0,Marla,3.6
+Flat,2970000,Rawalpindi,1,1,Marla,2.3
+House,4490000,Lahore,4,3,Marla,3.0
+Flat,3548000,Islamabad,1,1,Marla,2.1
+Flat,3564000,Islamabad,1,1,Marla,3.5
+Flat,3454000,Lahore,0,2,Marla,5.0
+Flat,2290000,Lahore,2,2,Marla,3.0
+House,2290000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,3110000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,1495000,Lahore,1,1,Marla,1.7
+Flat,1880000,Islamabad,1,1,Marla,1.9
+House,4490000,Lahore,2,3,Marla,3.0
+Flat,1360000,Karachi,2,2,Marla,3.1
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+House,23400000,Lahore,4,4,Marla,10.0
+House,6075000,Islamabad,5,4,Marla,5.0
+Flat,4715000,Islamabad,2,2,Marla,5.1
+House,6190000,Lahore,2,3,Marla,4.5
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,3626000,Islamabad,1,1,Marla,2.3
+House,3325000,Lahore,2,2,Marla,1.5
+Flat,2345000,Faisalabad,0,0,Marla,1.6
+House,4490000,Lahore,0,0,Marla,3.0
+House,43600000,Islamabad,4,4,Marla,10.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+House,31800000,Lahore,6,5,Marla,10.0
+House,3495000,Lahore,3,3,Marla,3.0
+Flat,3330000,Islamabad,1,1,Marla,2.0
+Flat,3127000,Islamabad,1,1,Marla,1.9
+Flat,7294000,Islamabad,3,3,Marla,4.6
+Flat,8652000,Islamabad,3,3,Marla,5.5
+Flat,3270000,Islamabad,1,1,Marla,1.9
+Flat,3127000,Islamabad,1,1,Marla,1.9
+Flat,7294000,Islamabad,3,3,Marla,4.6
+Flat,2338000,Islamabad,2,2,Marla,4.1
+House,33600000,Lahore,6,6,Marla,10.0
+Flat,7672000,Karachi,0,2,Marla,4.9
+Flat,7672000,Karachi,0,2,Marla,4.9
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,7320000,Islamabad,1,1,Marla,2.7
+Flat,6440000,Islamabad,2,2,Marla,4.1
+Flat,7336000,Islamabad,3,3,Marla,4.7
+Flat,6475000,Islamabad,2,2,Marla,4.1
+Flat,5565000,Islamabad,2,2,Marla,3.5
+Flat,5495000,Islamabad,2,2,Marla,3.5
+Flat,8652000,Islamabad,3,3,Marla,5.5
+Flat,8652000,Islamabad,3,3,Marla,5.5
+Flat,8764000,Islamabad,3,3,Marla,5.6
+House,4490000,Lahore,3,3,Marla,3.0
+House,2290000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Room,1000,Islamabad,1,1,Marla,1.0
+House,2290000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,5454000,Rawalpindi,0,2,Marla,4.2
+Flat,8466000,Karachi,3,3,Marla,5.6
+Upper Portion,5975000,Karachi,3,3,Marla,4.8
+Flat,8466000,Karachi,3,3,Marla,5.6
+Flat,4792000,Islamabad,1,1,Marla,2.7
+House,8750000,Lahore,4,3,Marla,5.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,7672000,Karachi,2,2,Marla,4.9
+Flat,7672000,Karachi,2,2,Marla,4.9
+Flat,7672000,Karachi,2,2,Marla,4.9
+Flat,7672000,Karachi,2,2,Marla,4.9
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,35600000,Karachi,4,3,Marla,12.0
+Flat,7364000,Karachi,2,2,Marla,4.7
+Flat,2565000,Islamabad,1,1,Marla,1.5
+Flat,3758000,Islamabad,1,1,Marla,2.2
+Flat,1293000,Islamabad,2,2,Marla,6.4
+Flat,4751000,Islamabad,1,1,Marla,2.7
+Flat,3817000,Islamabad,1,1,Marla,2.3
+Flat,4005000,Islamabad,1,1,Marla,2.4
+Flat,3945000,Islamabad,1,1,Marla,2.3
+Flat,3690000,Islamabad,1,1,Marla,2.2
+House,7510000,Faisalabad,0,0,Marla,4.0
+Flat,9713000,Lahore,1,1,Marla,1.9
+House,9725000,Karachi,3,3,Marla,5.0
+Flat,3470000,Rawalpindi,1,1,Marla,2.0
+Flat,1580000,Islamabad,1,1,Marla,2.7
+Flat,3127000,Islamabad,0,1,Marla,1.9
+Flat,3270000,Islamabad,0,1,Marla,1.9
+Flat,5411000,Islamabad,0,2,Marla,3.4
+Flat,5495000,Islamabad,0,2,Marla,3.5
+Flat,5754000,Islamabad,0,2,Marla,3.7
+Flat,8652000,Islamabad,0,3,Marla,5.5
+Flat,4988000,Rawalpindi,2,2,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,4446000,Islamabad,2,2,Marla,3.3
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,5090000,Islamabad,0,0,Marla,3.0
+Flat,4598000,Islamabad,1,1,Marla,2.7
+Flat,4840000,Islamabad,0,0,Marla,2.7
+Flat,7696000,Islamabad,0,0,Marla,4.3
+Flat,7920000,Islamabad,0,0,Marla,4.4
+Flat,5696000,Islamabad,0,1,Marla,3.4
+Room,7600,Rawalpindi,1,1,Marla,5.0
+House,7990000,Lahore,2,2,Marla,4.3
+Flat,5136000,Karachi,4,3,Marla,7.1
+House,6642000,Karachi,3,3,Marla,5.0
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,6492000,Islamabad,1,1,Marla,4.3
+House,7510000,Faisalabad,0,0,Marla,4.0
+Flat,8170000,Rawalpindi,0,3,Marla,7.3
+Flat,7120000,Rawalpindi,0,2,Marla,6.3
+Flat,7035000,Rawalpindi,0,2,Marla,6.3
+Flat,3545000,Rawalpindi,1,1,Marla,3.2
+Upper Portion,28650,Karachi,6,6,Marla,9.6
+Flat,3174000,Karachi,2,2,Marla,3.6
+Flat,1490000,Lahore,1,1,Marla,1.8
+Flat,5382000,Islamabad,0,1,Marla,2.7
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,6622000,Islamabad,2,2,Marla,4.2
+Flat,6622000,Islamabad,2,2,Marla,4.2
+Flat,4425000,Karachi,2,2,Marla,4.2
+Flat,7320000,Islamabad,0,0,Marla,2.7
+House,7510000,Faisalabad,0,0,Marla,4.0
+House,30200000,Lahore,5,4,Marla,10.0
+Flat,1499000,Islamabad,1,1,Marla,1.8
+Flat,2729000,Islamabad,2,2,Marla,5.1
+Flat,1982000,Islamabad,1,1,Marla,1.4
+Flat,1389000,Karachi,2,2,Marla,4.4
+Flat,1943000,Karachi,2,2,Marla,6.2
+Flat,2387000,Karachi,3,3,Marla,7.6
+Flat,7683000,Lahore,1,1,Marla,2.5
+Flat,3311000,Islamabad,1,1,Marla,2.1
+Flat,143000,Islamabad,2,2,Marla,5.3
+Flat,6944000,Karachi,3,2,Marla,4.4
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,3695000,Islamabad,1,1,Marla,3.3
+Flat,6030000,Islamabad,0,2,Marla,4.5
+Flat,5820000,Islamabad,0,2,Marla,4.3
+Flat,9360000,Islamabad,0,3,Marla,6.9
+Flat,8220000,Islamabad,0,3,Marla,6.1
+Upper Portion,2290000,Lahore,2,2,Marla,3.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,7757000,Lahore,1,1,Marla,1.5
+Flat,4780000,Lahore,0,0,Marla,2.5
+Flat,3437000,Rawalpindi,1,1,Marla,2.3
+Flat,3437000,Rawalpindi,1,1,Marla,2.3
+Flat,1499000,Islamabad,1,1,Marla,1.8
+Flat,3590000,Karachi,2,2,Marla,2.2
+Flat,4751000,Islamabad,1,1,Marla,2.7
+House,3495000,Lahore,3,3,Marla,3.0
+Flat,6540000,Islamabad,2,2,Marla,3.9
+Flat,8888000,Islamabad,3,3,Marla,5.3
+House,3495000,Lahore,3,3,Marla,3.0
+Flat,7669000,Islamabad,2,2,Marla,4.4
+Flat,7677000,Islamabad,2,2,Marla,4.4
+Flat,3499000,Islamabad,1,1,Marla,2.0
+Flat,4749000,Rawalpindi,0,2,Marla,3.2
+Flat,4978000,Rawalpindi,0,2,Marla,3.4
+Flat,3079000,Rawalpindi,0,1,Marla,2.1
+House,3495000,Lahore,3,3,Marla,3.0
+Flat,5273000,Islamabad,2,2,Marla,3.1
+House,7510000,Faisalabad,0,0,Marla,4.0
+Flat,6030000,Islamabad,0,2,Marla,4.5
+Flat,5820000,Islamabad,0,2,Marla,4.3
+Flat,9360000,Islamabad,0,3,Marla,6.9
+Flat,8220000,Islamabad,0,3,Marla,6.1
+House,2480000,Lahore,2,2,Marla,2.0
+Flat,3767000,Islamabad,2,2,Marla,2.9
+House,2480000,Lahore,2,2,Marla,2.0
+House,4590000,Islamabad,3,3,Marla,5.6
+Flat,1784000,Islamabad,1,1,Marla,1.4
+Flat,4887000,Islamabad,0,0,Marla,4.0
+Flat,3791000,Islamabad,2,2,Marla,2.9
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,7372000,Karachi,2,2,Marla,4.4
+Flat,6217000,Karachi,2,2,Marla,3.7
+Flat,1808000,Islamabad,1,1,Marla,1.4
+Flat,8405000,Islamabad,3,3,Marla,9.1
+Flat,4234000,Islamabad,2,2,Marla,2.9
+Flat,1802000,Islamabad,1,1,Marla,1.4
+Penthouse,4887000,Islamabad,2,2,Marla,4.0
+Flat,4898000,Islamabad,0,0,Marla,4.0
+Flat,3767000,Islamabad,0,0,Marla,2.9
+Flat,32700000,Lahore,0,3,Marla,9.4
+Flat,5808000,Islamabad,1,1,Marla,4.3
+Flat,3345000,Islamabad,1,1,Marla,2.0
+Flat,3330000,Islamabad,1,1,Marla,2.0
+Flat,5565000,Islamabad,2,2,Marla,3.5
+Flat,5495000,Islamabad,2,2,Marla,3.5
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,2699000,Rawalpindi,2,2,Marla,3.3
+Flat,4446000,Islamabad,2,2,Marla,3.3
+Flat,3516000,Islamabad,2,2,Marla,3.9
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,8466000,Karachi,3,3,Marla,5.6
+Flat,8466000,Karachi,3,3,Marla,5.6
+Flat,6328000,Islamabad,1,1,Marla,3.0
+Flat,1495000,Lahore,1,2,Marla,1.7
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3416000,Rawalpindi,0,0,Marla,2.4
+Flat,8060000,Islamabad,2,2,Marla,5.5
+Flat,5430000,Islamabad,2,2,Marla,3.2
+Flat,6540000,Islamabad,2,2,Marla,3.9
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,8888000,Islamabad,3,3,Marla,5.3
+House,3110000,Lahore,2,2,Marla,3.0
+House,4490000,Lahore,2,5,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,8888000,Islamabad,3,3,Marla,5.3
+Flat,96000,Karachi,0,2,Marla,4.7
+Flat,999000,Islamabad,2,2,Marla,4.0
+Flat,7892000,Islamabad,3,3,Marla,9.1
+House,1190000,Faisalabad,0,0,Marla,2.8
+House,9530000,Faisalabad,0,0,Marla,10.0
+House,7535000,Faisalabad,0,0,Marla,5.0
+House,8530000,Faisalabad,0,0,Marla,3.8
+Flat,5411000,Islamabad,2,2,Marla,3.4
+Flat,5754000,Islamabad,2,2,Marla,3.7
+Flat,4117000,Islamabad,1,1,Marla,2.4
+Flat,3960000,Islamabad,1,1,Marla,2.3
+Flat,5430000,Islamabad,2,2,Marla,3.2
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,8888000,Islamabad,3,3,Marla,5.3
+Flat,6540000,Islamabad,2,2,Marla,3.9
+Flat,5430000,Islamabad,2,2,Marla,3.2
+Flat,8242000,Islamabad,3,3,Marla,4.9
+House,30600000,Lahore,6,4,Marla,10.0
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,3960000,Islamabad,1,1,Marla,2.3
+Flat,4117000,Islamabad,1,1,Marla,2.4
+Flat,5430000,Islamabad,2,2,Marla,3.2
+Flat,6540000,Islamabad,2,2,Marla,3.9
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,8888000,Islamabad,3,3,Marla,5.3
+Flat,8655000,Islamabad,2,2,Marla,4.3
+House,9132000,Rawalpindi,3,3,Marla,5.0
+Flat,5675000,Islamabad,2,2,Marla,4.2
+Flat,8424000,Islamabad,2,2,Marla,4.9
+House,9132000,Rawalpindi,0,0,Marla,5.0
+House,9995000,Lahore,5,3,Marla,5.3
+Flat,3960000,Islamabad,1,1,Marla,2.3
+Flat,4117000,Islamabad,1,1,Marla,2.4
+Flat,6540000,Islamabad,2,2,Marla,3.9
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,8888000,Islamabad,3,3,Marla,5.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,3390000,Karachi,2,2,Marla,3.6
+House,3495000,Lahore,2,2,Marla,3.0
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,1025000,Karachi,1,2,Marla,1.8
+Flat,9894000,Islamabad,0,2,Marla,5.0
+Flat,9098000,Islamabad,0,2,Marla,5.0
+Flat,9894000,Islamabad,0,2,Marla,5.0
+Flat,9098000,Islamabad,0,2,Marla,5.0
+Flat,1499000,Islamabad,1,1,Marla,1.8
+House,5325000,Rawalpindi,3,4,Marla,7.0
+Flat,8175000,Karachi,3,3,Marla,4.8
+House,3495000,Lahore,0,0,Marla,3.0
+Flat,96000,Karachi,0,2,Marla,4.7
+Flat,8420000,Islamabad,2,2,Marla,4.2
+Flat,8970000,Islamabad,2,2,Marla,5.1
+Flat,2394000,Lahore,1,1,Marla,1.1
+Flat,2394000,Lahore,1,1,Marla,1.1
+Flat,2394000,Lahore,1,1,Marla,1.1
+Flat,3477000,Lahore,1,1,Marla,1.6
+Flat,5624000,Lahore,2,2,Marla,2.6
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,3477000,Lahore,1,1,Marla,1.6
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,5624000,Lahore,2,2,Marla,2.6
+Flat,7045000,Lahore,2,2,Marla,2.6
+Flat,5724000,Islamabad,2,2,Marla,4.2
+Flat,2394000,Lahore,0,1,Marla,1.1
+Flat,3477000,Lahore,1,1,Marla,1.6
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+House,6760000,Karachi,3,3,Marla,3.2
+Flat,1830000,Islamabad,0,0,Marla,1.6
+Flat,5624000,Lahore,2,2,Marla,2.6
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,5624000,Lahore,2,2,Marla,2.6
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,39700000,Karachi,5,4,Marla,10.9
+House,9132000,Rawalpindi,3,3,Marla,5.0
+House,9132000,Rawalpindi,3,3,Marla,5.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,9716000,Karachi,2,2,Marla,6.2
+House,40300000,Karachi,6,6,Marla,9.6
+Flat,2772000,Lahore,1,1,Marla,1.1
+Flat,3287000,Lahore,1,1,Marla,1.5
+Flat,6030000,Islamabad,2,2,Marla,4.5
+Flat,5820000,Islamabad,2,2,Marla,4.3
+Flat,9360000,Islamabad,3,3,Marla,6.9
+Flat,8220000,Islamabad,3,3,Marla,6.1
+Flat,7235000,Islamabad,2,2,Marla,6.0
+Flat,955000,Islamabad,2,2,Marla,3.5
+House,940000,Rawalpindi,3,3,Marla,5.0
+Flat,1830000,Islamabad,1,1,Marla,1.6
+Flat,3353000,Islamabad,1,1,Marla,3.0
+Flat,6410000,Lahore,0,0,Marla,2.4
+House,6095000,Karachi,3,3,Marla,8.0
+House,7025000,Karachi,3,3,Marla,8.0
+Flat,3536000,Islamabad,1,1,Marla,1.8
+Flat,9120000,Lahore,2,2,Marla,3.4
+House,913000,Rawalpindi,0,3,Marla,5.0
+Flat,3056000,Karachi,2,2,Marla,3.8
+Flat,3731000,Rawalpindi,0,1,Marla,2.4
+House,109000,Karachi,5,4,Marla,4.0
+Flat,3497000,Islamabad,1,1,Marla,2.4
+Flat,8790000,Rawalpindi,2,2,Marla,5.2
+Flat,4583000,Rawalpindi,1,1,Marla,2.7
+Flat,8462000,Lahore,0,1,Marla,1.7
+Flat,8826000,Lahore,0,1,Marla,1.7
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,5624000,Lahore,0,1,Marla,2.6
+Flat,3477000,Lahore,1,1,Marla,1.6
+Flat,96000,Karachi,0,2,Marla,4.7
+Flat,6944000,Karachi,2,2,Marla,4.4
+House,925000,Islamabad,3,3,Marla,5.0
+Flat,1056000,Lahore,1,1,Marla,2.0
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,3795000,Rawalpindi,1,1,Marla,2.2
+House,4490000,Lahore,3,3,Marla,3.0
+House,2335000,Lahore,2,1,Marla,3.0
+Flat,7044000,Lahore,1,1,Marla,2.6
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,1075000,Karachi,1,2,Marla,2.0
+Flat,5608000,Islamabad,0,0,Marla,3.1
+Flat,3102000,Islamabad,1,1,Marla,2.5
+Flat,1431000,Islamabad,2,2,Marla,4.2
+House,4490000,Lahore,0,0,Marla,3.0
+Flat,7044000,Lahore,1,1,Marla,2.6
+Flat,7212000,Lahore,0,0,Marla,2.7
+Flat,164000,Islamabad,0,0,Marla,7.8
+House,102000,Islamabad,6,6,Marla,10.0
+Flat,2825000,Islamabad,1,1,Marla,1.9
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+Flat,9146000,Rawalpindi,0,0,Marla,6.3
+Flat,9145000,Rawalpindi,0,0,Marla,6.3
+Flat,7703000,Rawalpindi,0,0,Marla,5.3
+Flat,6195000,Rawalpindi,0,0,Marla,4.2
+Flat,3452000,Rawalpindi,0,0,Marla,2.4
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,41500,Rawalpindi,3,3,Marla,8.0
+House,2290000,Lahore,2,2,Marla,3.0
+Flat,2998000,Islamabad,2,2,Marla,3.6
+Flat,114000,Islamabad,4,4,Marla,11.6
+House,2290000,Lahore,3,3,Marla,3.0
+House,2290000,Lahore,3,3,Marla,3.0
+Flat,4725000,Islamabad,0,0,Marla,2.0
+Flat,5517000,Islamabad,1,1,Marla,2.7
+House,35080,Faisalabad,0,3,Marla,5.0
+Flat,78600,Karachi,4,4,Marla,3.8
+Flat,6902000,Karachi,2,2,Marla,4.4
+House,31900000,Islamabad,6,6,Marla,14.0
+House,37300000,Karachi,0,3,Marla,4.8
+Flat,96000,Karachi,0,2,Marla,4.7
+Flat,5960000,Karachi,2,2,Marla,4.2
+Flat,6590000,Karachi,2,2,Marla,4.2
+Flat,2007000,Karachi,2,2,Marla,4.9
+Flat,4564000,Islamabad,1,1,Marla,3.5
+House,4490000,Lahore,3,3,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+House,4490000,Lahore,3,3,Marla,3.0
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+House,42300000,Lahore,6,5,Marla,10.0
+House,33900000,Lahore,5,4,Marla,10.0
+House,35200000,Lahore,5,4,Marla,10.0
+House,30700000,Lahore,5,4,Marla,10.0
+Flat,1313000,Islamabad,2,2,Marla,3.9
+Flat,5198000,Islamabad,1,1,Marla,2.7
+Flat,9120000,Lahore,2,2,Marla,3.4
+Flat,7044000,Lahore,1,1,Marla,2.6
+Flat,6675000,Karachi,2,2,Marla,4.2
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,8826000,Lahore,1,1,Marla,1.7
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,7385000,Lahore,1,1,Marla,1.9
+Flat,5292000,Islamabad,2,2,Marla,3.4
+Flat,1275000,Karachi,1,2,Marla,1.8
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,1431000,Islamabad,2,2,Marla,4.2
+Flat,5593000,Karachi,0,3,Marla,4.2
+House,4490000,Lahore,2,3,Marla,3.0
+Upper Portion,2290000,Lahore,1,2,Marla,3.0
+House,4490000,Lahore,2,4,Marla,3.0
+Upper Portion,2290000,Lahore,1,2,Marla,3.0
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+House,3,Rawalpindi,5,5,Marla,12.0
+Flat,2665000,Islamabad,1,1,Marla,1.8
+Flat,504000,Karachi,2,2,Marla,2.8
+Flat,502000,Karachi,2,2,Marla,2.8
+House,9845000,Rawalpindi,0,0,Marla,5.0
+Upper Portion,24600,Rawalpindi,0,2,Marla,10.0
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,0,Marla,1.8
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,0,Marla,1.8
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,0,Marla,1.8
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,0,Marla,1.8
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,6944000,Karachi,0,0,Marla,4.4
+Flat,9478000,Karachi,0,0,Marla,6.0
+House,7535000,Faisalabad,0,0,Marla,5.0
+House,1190000,Faisalabad,0,0,Marla,2.8
+House,9530000,Faisalabad,0,0,Marla,10.0
+Flat,6052000,Islamabad,2,2,Marla,3.6
+House,4525000,Lahore,2,2,Marla,2.0
+House,44200000,Karachi,6,6,Marla,9.3
+Flat,5813000,Islamabad,2,1,Marla,3.4
+House,6860000,Lahore,3,3,Marla,3.0
+House,6870000,Lahore,3,3,Marla,3.0
+House,6680000,Lahore,3,3,Marla,3.0
+House,6690000,Lahore,3,3,Marla,3.0
+House,6570000,Lahore,3,3,Marla,3.0
+House,6560000,Lahore,3,3,Marla,3.0
+Flat,4846000,Rawalpindi,0,1,Marla,3.7
+Flat,4047000,Rawalpindi,0,1,Marla,3.1
+Flat,3578000,Rawalpindi,0,1,Marla,2.7
+Flat,2970000,Rawalpindi,0,1,Marla,2.3
+Flat,2744000,Rawalpindi,0,1,Marla,2.1
+Flat,2970000,Rawalpindi,0,1,Marla,2.3
+Flat,4846000,Rawalpindi,0,1,Marla,3.7
+Flat,3578000,Rawalpindi,0,1,Marla,2.7
+Flat,4447000,Rawalpindi,0,1,Marla,3.4
+Flat,7521000,Rawalpindi,0,3,Marla,5.8
+Flat,6027000,Rawalpindi,0,2,Marla,4.6
+Flat,5327000,Rawalpindi,0,2,Marla,4.1
+Flat,5454000,Rawalpindi,0,2,Marla,4.2
+Flat,5808000,Islamabad,1,1,Marla,4.3
+Flat,8984000,Islamabad,2,2,Marla,6.1
+Flat,39400000,Karachi,4,4,Marla,12.2
+Flat,5273000,Islamabad,2,2,Marla,3.1
+Flat,3746000,Rawalpindi,1,1,Marla,2.4
+Flat,3731000,Rawalpindi,1,1,Marla,2.4
+Flat,3746000,Rawalpindi,1,1,Marla,2.4
+Flat,1625000,Lahore,2,2,Marla,3.0
+Flat,1545000,Lahore,2,2,Marla,3.0
+Flat,1540000,Lahore,2,2,Marla,3.0
+Flat,1525000,Lahore,2,2,Marla,3.0
+House,49500,Rawalpindi,4,4,Marla,7.0
+Flat,1380000,Karachi,0,0,Marla,4.4
+Flat,735000,Islamabad,1,1,Marla,2.8
+House,2095000,Lahore,0,1,Marla,5.0
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+House,9530000,Faisalabad,0,0,Marla,10.0
+House,7535000,Faisalabad,0,0,Marla,5.0
+Flat,390000,Islamabad,4,3,Marla,11.8
+House,2290000,Lahore,3,3,Marla,3.0
+House,2290000,Lahore,2,2,Marla,3.0
+Flat,270000,Islamabad,0,3,Marla,9.8
+Flat,1569000,Lahore,1,1,Marla,2.6
+Flat,8720000,Karachi,2,2,Marla,4.8
+Flat,7044000,Lahore,1,1,Marla,2.6
+Flat,1925000,Islamabad,1,1,Marla,2.4
+Flat,3952000,Lahore,1,1,Marla,1.8
+Flat,2189000,Lahore,1,1,Marla,2.2
+Flat,33200000,Karachi,3,3,Marla,7.1
+Flat,4965000,Islamabad,1,1,Marla,2.9
+Flat,4972000,Islamabad,1,1,Marla,2.9
+Flat,6375000,Islamabad,0,1,Marla,3.3
+Flat,1035000,Islamabad,1,1,Marla,3.1
+Flat,1499000,Islamabad,1,1,Marla,1.8
+Flat,9120000,Lahore,2,2,Marla,3.4
+House,3495000,Lahore,2,2,Marla,3.0
+Flat,490000,Islamabad,1,1,Marla,2.6
+Lower Portion,49500,Rawalpindi,3,3,Marla,7.0
+Upper Portion,31500,Rawalpindi,2,2,Marla,5.0
+Flat,4446000,Islamabad,0,2,Marla,3.3
+House,38800000,Lahore,4,4,Marla,14.0
+Flat,4446000,Islamabad,0,2,Marla,3.3
+Flat,6030000,Islamabad,0,2,Marla,4.5
+Flat,9360000,Islamabad,0,3,Marla,6.9
+Flat,5050000,Karachi,2,2,Marla,4.2
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,5513000,Islamabad,0,0,Marla,3.3
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,6079000,Karachi,2,2,Marla,4.7
+Flat,6513000,Karachi,2,2,Marla,5.0
+Flat,6079000,Karachi,2,2,Marla,4.7
+House,108000,Islamabad,0,5,Marla,10.0
+House,34800000,Lahore,0,5,Marla,10.0
+Flat,5430000,Islamabad,0,0,Marla,3.2
+House,5845000,Lahore,2,3,Marla,3.0
+House,5855000,Lahore,2,3,Marla,3.0
+House,5855000,Lahore,2,3,Marla,3.0
+House,5895000,Lahore,2,3,Marla,3.0
+House,5845000,Lahore,2,3,Marla,3.0
+House,5835000,Lahore,2,3,Marla,3.0
+House,5830000,Lahore,2,3,Marla,3.0
+House,5890000,Lahore,2,3,Marla,3.0
+House,5880000,Lahore,2,3,Marla,3.0
+House,5880000,Lahore,2,3,Marla,3.0
+House,5885000,Lahore,2,3,Marla,3.0
+House,5785000,Lahore,2,3,Marla,3.0
+House,5765000,Lahore,2,3,Marla,3.0
+House,5770000,Lahore,2,3,Marla,3.0
+House,9845000,Rawalpindi,0,0,Marla,5.0
+Flat,9271000,Karachi,2,2,Marla,5.6
+Flat,9271000,Karachi,2,2,Marla,5.6
+House,33100000,Karachi,4,4,Marla,10.0
+House,25100000,Karachi,6,6,Marla,9.6
+House,25700000,Karachi,6,6,Marla,9.6
+Flat,2495000,Islamabad,1,1,Marla,1.5
+House,147000,Islamabad,6,6,Marla,12.0
+Flat,5513000,Islamabad,1,1,Marla,3.3
+Flat,8872000,Islamabad,2,2,Marla,5.3
+Flat,5513000,Islamabad,1,1,Marla,3.3
+House,2555000,Lahore,2,2,Marla,2.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,41500,Rawalpindi,3,3,Marla,8.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,9716000,Karachi,2,2,Marla,6.2
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,2931000,Islamabad,0,0,Marla,2.0
+Flat,6676000,Islamabad,0,0,Marla,4.6
+Flat,4632000,Islamabad,0,0,Marla,3.2
+Flat,6663000,Islamabad,0,0,Marla,4.6
+Flat,7321000,Islamabad,0,0,Marla,5.0
+Flat,7627000,Islamabad,0,0,Marla,5.2
+Flat,4310000,Karachi,3,2,Marla,4.4
+Flat,4980000,Karachi,0,1,Marla,2.7
+House,9845000,Rawalpindi,0,0,Marla,5.0
+House,4530000,Lahore,2,3,Marla,2.5
+Flat,5718000,Islamabad,0,0,Marla,2.7
+Flat,7704000,Islamabad,0,1,Marla,4.0
+Flat,8355000,Islamabad,0,1,Marla,4.0
+Flat,8116000,Islamabad,0,1,Marla,3.9
+Flat,9666000,Islamabad,0,2,Marla,5.1
+Lower Portion,49500,Islamabad,2,2,Marla,7.0
+Flat,616000,Karachi,2,2,Marla,2.8
+Flat,614000,Karachi,2,2,Marla,2.8
+Flat,612000,Karachi,2,2,Marla,2.8
+Flat,610000,Karachi,2,2,Marla,2.8
+Flat,608000,Karachi,2,2,Marla,2.8
+Flat,606000,Karachi,2,2,Marla,2.8
+Flat,604000,Karachi,2,2,Marla,2.8
+Flat,602000,Karachi,2,2,Marla,2.8
+Flat,598000,Karachi,2,2,Marla,2.8
+Flat,596000,Karachi,2,2,Marla,2.8
+Flat,594000,Karachi,2,2,Marla,2.8
+Flat,592000,Karachi,2,2,Marla,2.8
+Flat,590000,Karachi,2,2,Marla,2.8
+Flat,588000,Karachi,2,2,Marla,2.8
+Flat,586000,Karachi,2,2,Marla,2.8
+Flat,584000,Karachi,2,2,Marla,2.8
+Flat,582000,Karachi,2,2,Marla,2.8
+Flat,580000,Karachi,2,2,Marla,2.8
+Flat,578000,Karachi,2,2,Marla,2.8
+Flat,572000,Karachi,2,2,Marla,2.8
+Flat,574000,Karachi,2,2,Marla,2.8
+Flat,570000,Karachi,2,2,Marla,2.8
+Flat,568000,Karachi,2,2,Marla,2.8
+Flat,566000,Karachi,2,2,Marla,2.8
+Flat,564000,Karachi,2,2,Marla,2.8
+Flat,562000,Karachi,2,2,Marla,2.8
+Flat,560000,Karachi,2,2,Marla,2.8
+Flat,558000,Karachi,2,2,Marla,2.8
+Flat,556000,Karachi,2,2,Marla,2.8
+Flat,554000,Karachi,2,2,Marla,2.8
+Flat,552000,Karachi,2,2,Marla,2.8
+Flat,548000,Karachi,2,2,Marla,2.8
+Flat,546000,Karachi,2,2,Marla,2.8
+Flat,544000,Karachi,2,2,Marla,2.8
+Flat,542000,Karachi,2,2,Marla,2.8
+Flat,540000,Karachi,2,2,Marla,2.8
+Flat,538000,Karachi,2,2,Marla,2.8
+Flat,536000,Karachi,2,2,Marla,2.8
+Flat,534000,Karachi,2,2,Marla,2.8
+Flat,532000,Karachi,2,2,Marla,2.8
+Flat,530000,Karachi,2,2,Marla,2.8
+Flat,528000,Karachi,2,2,Marla,2.8
+Flat,526000,Karachi,2,2,Marla,2.8
+Flat,524000,Karachi,2,2,Marla,2.8
+Flat,524000,Karachi,2,2,Marla,2.8
+Flat,522000,Karachi,2,2,Marla,2.8
+Flat,520000,Karachi,2,2,Marla,2.8
+Flat,518000,Karachi,2,2,Marla,2.8
+Flat,516000,Karachi,2,2,Marla,2.8
+Flat,514000,Karachi,2,2,Marla,2.8
+Flat,512000,Karachi,2,2,Marla,2.8
+Flat,510000,Karachi,2,2,Marla,2.8
+Flat,508000,Karachi,2,2,Marla,2.8
+Flat,506000,Karachi,2,2,Marla,2.8
+Upper Portion,3495000,Lahore,2,2,Marla,3.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,9716000,Karachi,2,2,Marla,6.2
+Flat,6025000,Karachi,2,2,Marla,4.2
+Flat,4980000,Karachi,2,2,Marla,2.7
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,41500,Rawalpindi,3,3,Marla,8.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,41500,Rawalpindi,3,3,Marla,8.0
+Flat,5184000,Karachi,2,2,Marla,5.8
+Flat,5184000,Karachi,2,2,Marla,5.8
+Flat,8844000,Karachi,3,3,Marla,9.8
+Flat,8844000,Karachi,3,3,Marla,9.8
+House,44500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,41500,Rawalpindi,3,3,Marla,8.0
+House,9849000,Rawalpindi,3,3,Marla,5.0
+House,30900000,Lahore,5,4,Marla,10.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+House,42900000,Karachi,0,5,Marla,12.0
+House,42900000,Karachi,0,5,Marla,12.0
+Upper Portion,3495000,Lahore,2,2,Marla,3.0
+Flat,174000,Islamabad,3,3,Marla,10.2
+Upper Portion,3495000,Lahore,2,2,Marla,3.0
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,9716000,Karachi,2,2,Marla,6.2
+House,1525000,Lahore,2,2,Marla,3.0
+House,1530000,Lahore,2,2,Marla,3.0
+House,1590000,Lahore,2,2,Marla,3.0
+House,1590000,Lahore,2,2,Marla,3.0
+Flat,4562000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5462000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,4980000,Karachi,1,1,Marla,2.7
+Flat,485000,Rawalpindi,0,1,Marla,3.7
+Flat,4047000,Rawalpindi,0,1,Marla,3.1
+Flat,3578000,Rawalpindi,0,1,Marla,2.7
+Flat,2970000,Rawalpindi,0,1,Marla,2.3
+Flat,2744000,Rawalpindi,0,1,Marla,2.1
+Flat,2970000,Rawalpindi,0,1,Marla,2.3
+Flat,4846000,Rawalpindi,0,1,Marla,3.7
+Flat,3578000,Rawalpindi,0,1,Marla,2.7
+Flat,4447000,Rawalpindi,0,1,Marla,3.4
+Flat,7521000,Rawalpindi,0,3,Marla,5.8
+Flat,6027000,Rawalpindi,0,2,Marla,4.6
+Flat,5327000,Rawalpindi,0,2,Marla,4.1
+Flat,5454000,Rawalpindi,0,2,Marla,4.2
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,4888000,Islamabad,2,2,Marla,3.3
+Flat,6503000,Islamabad,0,1,Marla,3.3
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,3334000,Rawalpindi,1,1,Marla,2.3
+Flat,6539000,Rawalpindi,2,2,Marla,4.5
+Flat,35800000,Karachi,4,4,Marla,13.2
+Flat,1715000,Islamabad,1,1,Marla,2.7
+Flat,3825000,Islamabad,1,1,Marla,2.0
+Flat,6092000,Islamabad,1,1,Marla,3.3
+House,4475000,Lahore,2,3,Marla,4.0
+Flat,96000,Karachi,0,0,Marla,4.7
+Flat,6944000,Karachi,2,2,Marla,4.4
+Flat,9716000,Karachi,2,2,Marla,6.2
+Flat,8242000,Islamabad,3,3,Marla,4.9
+Flat,5808000,Islamabad,1,1,Marla,4.3
+House,7530000,Faisalabad,0,0,Marla,5.0
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,1,Marla,1.8
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,1,Marla,1.8
+Flat,4888000,Islamabad,2,2,Marla,3.3
+Flat,5722000,Islamabad,0,0,Marla,2.7
+Flat,7704000,Islamabad,0,0,Marla,4.0
+Flat,8355000,Islamabad,0,0,Marla,4.0
+Flat,8116000,Islamabad,0,0,Marla,3.9
+Flat,9666000,Islamabad,0,0,Marla,5.1
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,3746000,Rawalpindi,0,0,Marla,2.4
+Flat,3731000,Rawalpindi,0,0,Marla,2.4
+Flat,65010,Karachi,3,3,Marla,7.8
+Flat,1340000,Lahore,2,2,Marla,3.0
+Flat,1345000,Lahore,2,2,Marla,3.0
+Flat,1375000,Lahore,2,2,Marla,3.0
+Flat,9271000,Karachi,2,2,Marla,5.6
+Flat,9271000,Karachi,2,2,Marla,5.6
+Flat,1275000,Karachi,1,2,Marla,1.8
+Flat,6678000,Islamabad,2,2,Marla,3.3
+Flat,3139000,Islamabad,1,1,Marla,2.0
+Flat,20010,Karachi,2,2,Marla,3.6
+House,6205000,Faisalabad,0,0,Marla,5.5
+House,7505000,Faisalabad,0,0,Marla,7.0
+House,3715000,Faisalabad,0,0,Marla,3.0
+House,7505000,Faisalabad,0,0,Marla,7.0
+Flat,4720000,Islamabad,2,2,Marla,4.2
+Flat,655000,Karachi,2,2,Marla,2.8
+Flat,645000,Karachi,2,2,Marla,2.8
+Flat,640000,Karachi,2,2,Marla,2.8
+Flat,635000,Karachi,2,2,Marla,2.8
+Flat,630000,Karachi,2,2,Marla,2.8
+Flat,630000,Karachi,2,2,Marla,2.8
+Flat,620000,Karachi,2,2,Marla,2.8
+Flat,615000,Karachi,2,2,Marla,2.8
+Flat,610000,Karachi,2,2,Marla,2.8
+Flat,605000,Karachi,2,2,Marla,2.8
+Flat,595000,Karachi,2,2,Marla,2.8
+Flat,590000,Karachi,2,2,Marla,2.8
+Flat,585000,Karachi,2,2,Marla,2.8
+Flat,580000,Karachi,2,2,Marla,2.8
+Flat,575000,Karachi,2,2,Marla,2.8
+Flat,570000,Karachi,2,2,Marla,2.8
+Flat,560000,Karachi,2,2,Marla,2.8
+Flat,4980000,Karachi,1,1,Marla,2.7
+Flat,3746000,Rawalpindi,1,1,Marla,2.4
+Flat,3731000,Rawalpindi,1,1,Marla,2.4
+Flat,3746000,Rawalpindi,1,1,Marla,2.4
+House,2290000,Lahore,2,2,Marla,3.0
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,1,Marla,1.8
+Flat,5517000,Islamabad,0,1,Marla,2.7
+Flat,3536000,Islamabad,0,1,Marla,1.8
+House,30300000,Islamabad,6,6,Marla,14.0
+House,30300000,Islamabad,6,6,Marla,14.0
+House,7515000,Faisalabad,0,0,Marla,11.0
+House,7699000,Karachi,3,3,Marla,6.1
+House,8850000,Karachi,3,3,Marla,9.4
+Flat,5722000,Islamabad,0,0,Marla,2.7
+Flat,7704000,Islamabad,0,0,Marla,4.0
+Flat,8355000,Islamabad,0,0,Marla,4.0
+Flat,8116000,Islamabad,0,0,Marla,3.9
+Flat,9666000,Islamabad,0,0,Marla,5.1
+Flat,2210000,Islamabad,1,1,Marla,2.7
+Flat,4583000,Rawalpindi,0,1,Marla,2.7
+Flat,8790000,Rawalpindi,0,2,Marla,5.2
+Flat,4562000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,4562000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,4562000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,4562000,Islamabad,0,0,Marla,4.1
+Flat,1663000,Islamabad,0,0,Marla,1.5
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,5629000,Islamabad,0,0,Marla,5.0
+Flat,237000,Islamabad,4,3,Marla,13.3
+Flat,8984000,Islamabad,2,2,Marla,6.1
+Upper Portion,3495000,Lahore,2,2,Marla,3.0
+House,34300000,Lahore,6,5,Marla,10.0
+House,28700000,Karachi,6,6,Marla,9.6
+House,28400000,Karachi,6,6,Marla,9.6
+House,28100000,Karachi,6,6,Marla,9.6
+House,27700000,Karachi,6,6,Marla,9.6
+House,27400000,Karachi,6,6,Marla,9.6
+House,25700000,Karachi,6,6,Marla,9.6
+House,25100000,Karachi,6,6,Marla,9.6
+Flat,5273000,Islamabad,2,2,Marla,3.1
+Flat,2780000,Islamabad,0,0,Marla,2.2
+Flat,3180000,Islamabad,0,0,Marla,2.6
+Flat,3180000,Islamabad,0,0,Marla,2.6
+Flat,3180000,Islamabad,0,0,Marla,2.6
+Flat,3180000,Islamabad,0,0,Marla,2.6
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+Flat,8984000,Islamabad,2,2,Marla,6.1
+Flat,5808000,Islamabad,1,1,Marla,4.3
+House,1474000,Karachi,2,2,Marla,4.8
+Flat,3372000,Islamabad,0,1,Marla,2.5
+Flat,7175000,Islamabad,3,3,Marla,7.8
+Flat,4715000,Islamabad,2,2,Marla,5.1
+Flat,8075000,Lahore,1,1,Marla,1.6
+Flat,1389000,Karachi,2,2,Marla,4.4
+Flat,1670000,Karachi,4,4,Marla,13.1
+House,48010,Rawalpindi,5,4,Marla,7.0
+Flat,665000,Rawalpindi,1,1,Marla,2.2
+House,7530000,Faisalabad,0,0,Marla,5.0
+House,6515000,Faisalabad,0,0,Marla,3.5
+House,3515000,Faisalabad,0,0,Marla,3.5
+House,8515000,Faisalabad,0,0,Marla,3.5
+Flat,3136000,Islamabad,0,0,Marla,1.6
+Flat,4513000,Islamabad,0,0,Marla,2.4
+Flat,1979000,Rawalpindi,3,3,Marla,6.3
+Flat,8987000,Rawalpindi,0,3,Marla,7.3
+Flat,7832000,Rawalpindi,0,2,Marla,6.3
+Flat,4477000,Rawalpindi,0,1,Marla,3.6
+Flat,3828000,Rawalpindi,0,1,Marla,6.2
+Flat,3746000,Rawalpindi,0,1,Marla,2.4
+Flat,3731000,Rawalpindi,0,1,Marla,2.4
+Flat,3746000,Rawalpindi,0,1,Marla,2.4
+Flat,3731000,Rawalpindi,0,1,Marla,2.4
+Lower Portion,49500,Rawalpindi,3,3,Marla,7.0
+Upper Portion,31500,Rawalpindi,2,2,Marla,5.0
+Flat,1725000,Lahore,2,2,Marla,3.0
+Flat,1740000,Lahore,2,2,Marla,3.0
+Flat,1940000,Lahore,2,2,Marla,3.0
+Flat,1640000,Lahore,2,2,Marla,3.0
+Flat,1740000,Lahore,2,2,Marla,3.0
+Flat,1440000,Lahore,2,2,Marla,3.0
+Flat,1430000,Lahore,2,2,Marla,3.0
+Flat,1440000,Lahore,2,2,Marla,3.0
+Flat,1420000,Lahore,2,2,Marla,3.0
+Flat,717000,Rawalpindi,0,1,Marla,2.2
+Flat,5951000,Islamabad,1,1,Marla,3.2
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+Flat,375000,Islamabad,1,1,Marla,2.2
+House,41500,Rawalpindi,3,3,Marla,8.0
+House,43500,Rawalpindi,3,3,Marla,8.0
+House,44500,Rawalpindi,3,3,Marla,8.0
+Flat,2931000,Islamabad,0,0,Marla,2.0
+Flat,6676000,Islamabad,0,0,Marla,4.6
+Flat,4632000,Islamabad,0,0,Marla,3.2
+Flat,6663000,Islamabad,0,0,Marla,4.6
+Flat,7321000,Islamabad,0,0,Marla,5.0
+Flat,7627000,Islamabad,0,0,Marla,5.2
+House,4515000,Faisalabad,0,0,Marla,5.0
+House,4825000,Faisalabad,0,0,Marla,5.0
+House,4470000,Faisalabad,0,0,Marla,2.0
+House,9070000,Faisalabad,0,0,Marla,5.0
+House,9025000,Faisalabad,0,0,Marla,5.0
+House,9065000,Faisalabad,0,0,Marla,5.0
+House,4025000,Faisalabad,0,0,Marla,2.0
+House,123000,Islamabad,0,6,Marla,12.4
+House,124000,Islamabad,0,6,Marla,12.4
+House,129000,Islamabad,0,6,Marla,14.2
+Flat,4123000,Islamabad,1,1,Marla,2.2
+House,1474000,Karachi,2,2,Marla,4.8
+House,1602000,Karachi,2,2,Marla,4.8
+House,7020000,Faisalabad,0,0,Marla,10.0
+House,7515000,Faisalabad,0,0,Marla,11.0
+House,7505000,Faisalabad,0,0,Marla,7.0
+House,3715000,Faisalabad,0,0,Marla,3.0
+House,7505000,Faisalabad,0,0,Marla,7.0
+House,6205000,Faisalabad,0,0,Marla,5.5
+House,7530000,Faisalabad,0,0,Marla,5.0
+Flat,117000,Karachi,3,3,Marla,10.2
+House,37300000,Karachi,2,3,Marla,4.8
+House,3515000,Faisalabad,0,0,Marla,3.5
+House,8515000,Faisalabad,0,0,Marla,3.5
+Flat,660000,Islamabad,1,1,Marla,2.0
+Flat,645000,Karachi,2,2,Marla,2.8
+Flat,640000,Karachi,2,2,Marla,2.8
+Flat,635000,Karachi,2,2,Marla,2.8
+Flat,630000,Karachi,2,2,Marla,2.8
+Flat,625000,Karachi,2,2,Marla,2.8
+Flat,620000,Karachi,2,2,Marla,2.8
+Flat,615000,Karachi,2,2,Marla,2.8
+Flat,610000,Karachi,2,2,Marla,2.8
+Flat,605000,Karachi,2,2,Marla,2.8
+Flat,595000,Karachi,2,2,Marla,2.8
+Flat,590000,Karachi,2,2,Marla,2.8
+Flat,585000,Karachi,2,2,Marla,2.8
+Flat,580000,Karachi,2,2,Marla,2.8
+Flat,575000,Karachi,2,2,Marla,2.8
+Flat,570000,Karachi,2,2,Marla,2.8
+Flat,565000,Karachi,2,2,Marla,2.8
+Flat,560000,Karachi,2,2,Marla,2.8
+Flat,555000,Karachi,2,2,Marla,2.8
+Flat,545000,Karachi,2,2,Marla,2.8
+Flat,540000,Karachi,6,2,Marla,2.8
+Flat,535000,Karachi,2,2,Marla,2.8
+Flat,530000,Karachi,2,2,Marla,2.8
+Flat,525000,Karachi,2,2,Marla,2.8
+Flat,520000,Karachi,2,2,Marla,2.8
+Flat,515000,Karachi,2,2,Marla,2.8
+Flat,510000,Karachi,2,2,Marla,2.8
+Flat,505000,Karachi,2,2,Marla,2.8
+Flat,1035000,Islamabad,1,1,Marla,3.1
+Flat,1507000,Islamabad,2,2,Marla,4.5
+Flat,1455000,Islamabad,2,2,Marla,4.3
+Flat,1388000,Islamabad,2,2,Marla,4.1
+Flat,1313000,Islamabad,2,2,Marla,3.9
+Flat,795000,Karachi,2,2,Marla,2.8
+Flat,790000,Karachi,2,2,Marla,2.8
+Flat,785000,Karachi,2,2,Marla,2.8
+Flat,780000,Karachi,2,2,Marla,2.8
+Flat,775000,Karachi,2,2,Marla,2.8
+Flat,770000,Karachi,2,2,Marla,2.8
+Flat,765000,Karachi,2,2,Marla,2.8
+Flat,760000,Karachi,2,2,Marla,2.8
+Flat,755000,Karachi,2,2,Marla,2.8
+Flat,745000,Karachi,2,2,Marla,2.8
+Flat,740000,Karachi,2,2,Marla,2.8
+Flat,735000,Karachi,2,2,Marla,2.8
+Flat,730000,Karachi,2,2,Marla,2.8
+Flat,720000,Karachi,2,2,Marla,2.8
+Flat,715000,Karachi,2,2,Marla,2.8
+Flat,710000,Karachi,2,2,Marla,2.8
+Flat,695000,Karachi,2,2,Marla,2.8
+Flat,690000,Karachi,2,2,Marla,2.8
+Flat,685000,Karachi,2,2,Marla,2.8
+Flat,680000,Karachi,2,2,Marla,2.8
+Flat,675000,Karachi,2,2,Marla,2.8
+Flat,670000,Karachi,2,2,Marla,2.8
+Flat,2055000,Islamabad,3,3,Marla,6.1
+Flat,1695000,Islamabad,3,3,Marla,5.0
+Flat,9064000,Islamabad,2,2,Marla,4.9
+Flat,6606000,Islamabad,1,1,Marla,3.3
+House,54,Islamabad,4,4,Marla,4.4
+House,29300000,Karachi,6,6,Marla,9.6
+House,29100000,Karachi,6,6,Marla,9.6
+House,28700000,Karachi,6,6,Marla,9.6
+House,25700000,Karachi,6,6,Marla,9.6
+House,25100000,Karachi,6,6,Marla,9.6
+House,27700000,Karachi,6,6,Marla,9.6
+House,27400000,Karachi,6,6,Marla,9.6
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+House,28400000,Karachi,6,6,Marla,9.6
+House,28100000,Karachi,6,6,Marla,9.6
+Flat,3746000,Rawalpindi,0,1,Marla,2.4
+Flat,3731000,Rawalpindi,0,1,Marla,2.4
+Flat,3746000,Rawalpindi,0,1,Marla,2.4
+Flat,3731000,Rawalpindi,0,1,Marla,2.4
+Flat,1979000,Rawalpindi,3,3,Marla,6.3
+Flat,8336000,Islamabad,2,2,Marla,4.6
+House,4515000,Faisalabad,0,0,Marla,5.0
+House,4825000,Faisalabad,0,0,Marla,5.0
+Flat,6855000,Islamabad,2,2,Marla,5.1
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+Flat,1560000,Islamabad,3,2,Marla,5.2
+House,9010000,Karachi,3,3,Marla,8.0
+Flat,1247000,Rawalpindi,2,2,Marla,4.1
+Flat,665000,Rawalpindi,1,1,Marla,2.2
+Flat,717000,Rawalpindi,1,1,Marla,2.2
+House,9849000,Rawalpindi,3,3,Marla,5.0
+House,26900000,Islamabad,6,6,Kanal,1.0
+House,26800000,Lahore,6,5,Kanal,1.0
+Flat,4700000,Karachi,2,3,Kanal,1.8
+House,43200000,Lahore,6,5,Kanal,1.0
+House,41700000,Lahore,6,5,Kanal,1.0
+Upper Portion,57000,Rawalpindi,5,3,Kanal,1.0
+House,45500000,Lahore,5,5,Kanal,1.0
+House,32700000,Lahore,4,4,Kanal,1.0
+House,37200000,Lahore,6,5,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+House,159000,Karachi,6,6,Kanal,1.0
+Upper Portion,33000,Islamabad,3,4,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,142000,Islamabad,5,5,Kanal,1.0
+House,142000,Islamabad,6,6,Kanal,1.0
+House,141000,Islamabad,6,6,Kanal,1.1
+House,143000,Islamabad,6,6,Kanal,1.1
+House,139000,Islamabad,6,6,Kanal,1.0
+House,142000,Islamabad,5,5,Kanal,1.0
+House,141000,Islamabad,6,5,Kanal,1.1
+House,138000,Islamabad,4,4,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+Room,21000,Islamabad,0,1,Kanal,1.0
+Room,21000,Islamabad,0,1,Kanal,1.0
+Upper Portion,107000,Islamabad,0,3,Kanal,1.3
+Lower Portion,71000,Islamabad,0,3,Kanal,1.0
+House,34600000,Lahore,6,5,Kanal,1.0
+Upper Portion,29000,Islamabad,0,3,Kanal,1.0
+Upper Portion,78000,Islamabad,0,3,Kanal,1.0
+Upper Portion,78000,Islamabad,0,3,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+Lower Portion,46000,Islamabad,3,3,Kanal,1.0
+Upper Portion,87000,Islamabad,0,3,Kanal,1.0
+Upper Portion,86000,Islamabad,0,3,Kanal,1.0
+Upper Portion,87000,Islamabad,0,3,Kanal,1.0
+House,157000,Islamabad,5,5,Kanal,1.0
+House,153000,Islamabad,5,5,Kanal,1.0
+House,152000,Islamabad,5,5,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+Lower Portion,59000,Islamabad,3,3,Kanal,1.0
+Lower Portion,98000,Islamabad,0,3,Kanal,1.0
+House,158000,Islamabad,5,5,Kanal,1.0
+House,152000,Islamabad,5,5,Kanal,1.0
+House,153000,Islamabad,5,5,Kanal,1.0
+House,152000,Islamabad,6,6,Kanal,1.0
+House,335000,Karachi,7,6,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+Upper Portion,44000,Islamabad,0,3,Kanal,1.0
+House,38600000,Lahore,7,5,Kanal,1.0
+House,23200000,Lahore,6,5,Kanal,1.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+House,17200000,Rawalpindi,8,7,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+House,38700000,Lahore,6,5,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+Upper Portion,33000,Rawalpindi,2,3,Kanal,1.0
+House,39800000,Lahore,5,5,Kanal,1.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+House,4,Lahore,6,5,Kanal,1.0
+Lower Portion,71000,Islamabad,0,3,Kanal,1.0
+Lower Portion,71000,Islamabad,0,3,Kanal,1.0
+House,142000,Karachi,4,4,Kanal,1.0
+House,12200000,Lahore,5,6,Kanal,1.1
+House,45500000,Rawalpindi,0,7,Kanal,1.0
+Lower Portion,67000,Karachi,3,3,Kanal,1.0
+Lower Portion,67000,Karachi,3,3,Kanal,1.0
+Upper Portion,39990,Islamabad,4,3,Kanal,1.0
+Upper Portion,57000,Islamabad,3,3,Kanal,1.0
+House,13200000,Islamabad,6,6,Kanal,1.0
+House,21700000,Lahore,0,2,Kanal,1.0
+House,21200000,Lahore,6,7,Kanal,1.0
+House,369000,Karachi,5,4,Kanal,1.0
+House,27600000,Lahore,0,0,Kanal,1.2
+House,1450000,Karachi,6,6,Kanal,2.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,37200000,Lahore,0,0,Kanal,1.0
+House,40500000,Lahore,7,6,Kanal,1.0
+House,33200000,Lahore,6,5,Kanal,1.0
+House,9900000,Rawalpindi,5,6,Kanal,1.0
+House,30800000,Lahore,6,5,Kanal,1.0
+House,42900000,Rawalpindi,6,6,Kanal,1.0
+House,32700000,Lahore,5,4,Kanal,1.0
+Upper Portion,37500,Islamabad,3,3,Kanal,1.0
+Room,8500,Rawalpindi,0,0,Kanal,2.0
+Room,16500,Karachi,1,1,Kanal,1.1
+House,498000,Karachi,5,4,Kanal,2.3
+House,31600000,Rawalpindi,6,5,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,45500000,Rawalpindi,7,6,Kanal,1.0
+Upper Portion,33000,Islamabad,4,4,Kanal,1.0
+Upper Portion,46000,Islamabad,3,3,Kanal,1.0
+House,9300000,Rawalpindi,5,6,Kanal,1.0
+Upper Portion,79000,Karachi,3,3,Kanal,1.2
+House,1250000,Karachi,7,6,Kanal,4.0
+Upper Portion,46000,Islamabad,3,3,Kanal,1.0
+House,89000,Islamabad,7,6,Kanal,1.0
+House,8,Karachi,5,5,Kanal,1.0
+Upper Portion,49000,Islamabad,4,4,Kanal,1.0
+Flat,6200000,Karachi,2,2,Kanal,1.9
+Lower Portion,57000,Islamabad,4,3,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,695000,Islamabad,7,7,Kanal,1.0
+House,999000,Karachi,8,7,Kanal,2.4
+House,25200000,Lahore,6,6,Kanal,1.0
+Lower Portion,98000,Islamabad,3,3,Kanal,1.0
+House,19800000,Islamabad,4,4,Kanal,1.0
+House,57000,Islamabad,5,5,Kanal,1.0
+House,59000,Islamabad,5,5,Kanal,1.0
+House,61000,Islamabad,5,5,Kanal,1.0
+House,64000,Islamabad,5,5,Kanal,1.0
+House,66000,Islamabad,5,5,Kanal,1.0
+House,67000,Islamabad,5,5,Kanal,1.0
+House,46000,Islamabad,6,6,Kanal,1.0
+House,49000,Islamabad,6,6,Kanal,1.0
+House,57000,Islamabad,6,6,Kanal,1.0
+House,59000,Islamabad,6,6,Kanal,1.0
+House,61000,Islamabad,6,6,Kanal,1.0
+House,64000,Islamabad,6,6,Kanal,1.0
+House,66000,Islamabad,6,6,Kanal,1.0
+House,67000,Islamabad,6,6,Kanal,1.0
+House,69000,Islamabad,6,6,Kanal,1.0
+House,71000,Islamabad,6,6,Kanal,1.0
+House,76000,Islamabad,6,6,Kanal,1.0
+House,71000,Islamabad,0,0,Kanal,1.0
+House,69000,Islamabad,0,0,Kanal,1.0
+House,67000,Islamabad,0,0,Kanal,1.0
+House,66000,Islamabad,0,0,Kanal,1.0
+Upper Portion,33000,Islamabad,0,0,Kanal,1.0
+Lower Portion,31000,Islamabad,0,0,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,0,Kanal,1.0
+House,87000,Islamabad,0,0,Kanal,1.0
+House,89000,Islamabad,0,0,Kanal,1.0
+House,94000,Islamabad,0,0,Kanal,1.0
+House,96000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,71000,Islamabad,0,0,Kanal,1.0
+House,69000,Islamabad,0,0,Kanal,1.0
+House,67000,Islamabad,0,0,Kanal,1.0
+House,66000,Islamabad,0,0,Kanal,1.0
+House,64000,Islamabad,0,0,Kanal,1.0
+House,61000,Islamabad,0,0,Kanal,1.0
+House,59000,Islamabad,0,0,Kanal,1.0
+House,57000,Islamabad,0,0,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,43000,Islamabad,0,0,Kanal,1.0
+House,44000,Islamabad,0,0,Kanal,1.0
+Upper Portion,33000,Islamabad,0,0,Kanal,1.0
+Lower Portion,44000,Islamabad,0,0,Kanal,1.0
+Lower Portion,43000,Islamabad,0,0,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,71000,Islamabad,0,0,Kanal,1.0
+House,69000,Islamabad,0,0,Kanal,1.0
+House,67000,Islamabad,0,0,Kanal,1.0
+House,66000,Islamabad,0,0,Kanal,1.0
+Upper Portion,33000,Islamabad,0,0,Kanal,1.0
+Lower Portion,31000,Islamabad,0,0,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,0,Kanal,1.0
+House,87000,Islamabad,0,0,Kanal,1.0
+House,89000,Islamabad,0,0,Kanal,1.0
+House,94000,Islamabad,0,0,Kanal,1.0
+House,96000,Islamabad,0,0,Kanal,1.0
+House,96000,Islamabad,0,0,Kanal,1.0
+House,94000,Islamabad,0,0,Kanal,1.0
+House,89000,Islamabad,0,0,Kanal,1.0
+House,87000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,0,Kanal,1.0
+House,87000,Islamabad,0,0,Kanal,1.0
+House,89000,Islamabad,0,0,Kanal,1.0
+House,94000,Islamabad,0,0,Kanal,1.0
+House,96000,Islamabad,0,0,Kanal,1.0
+House,299000,Karachi,8,6,Kanal,1.0
+House,69000,Islamabad,0,0,Kanal,1.0
+House,67000,Islamabad,0,0,Kanal,1.0
+House,66000,Islamabad,0,0,Kanal,1.0
+House,71000,Islamabad,0,0,Kanal,1.0
+House,64000,Islamabad,0,0,Kanal,1.0
+House,61000,Islamabad,0,0,Kanal,1.0
+House,59000,Islamabad,0,0,Kanal,1.0
+House,57000,Islamabad,0,0,Kanal,1.0
+House,43000,Islamabad,0,0,Kanal,1.0
+House,44000,Islamabad,0,0,Kanal,1.0
+Upper Portion,33000,Islamabad,0,0,Kanal,1.0
+Lower Portion,44000,Islamabad,0,0,Kanal,1.0
+Lower Portion,43000,Islamabad,0,0,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,71000,Islamabad,0,0,Kanal,1.0
+House,69000,Islamabad,0,0,Kanal,1.0
+House,67000,Islamabad,0,0,Kanal,1.0
+House,66000,Islamabad,0,0,Kanal,1.0
+Upper Portion,33000,Islamabad,0,0,Kanal,1.0
+Lower Portion,31000,Islamabad,0,0,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+House,81000,Islamabad,0,5,Kanal,1.0
+House,87000,Islamabad,0,5,Kanal,1.0
+House,89000,Islamabad,0,5,Kanal,1.0
+House,94000,Islamabad,0,5,Kanal,1.0
+House,96000,Islamabad,0,5,Kanal,1.0
+Room,9500,Islamabad,6,6,Kanal,1.0
+House,29900000,Lahore,0,0,Kanal,1.0
+House,35300000,Lahore,6,5,Kanal,1.0
+House,39200000,Lahore,6,5,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,33800000,Lahore,6,5,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,5800000,Karachi,2,2,Kanal,2.2
+House,45500000,Islamabad,6,6,Kanal,1.0
+Lower Portion,43000,Islamabad,4,4,Kanal,1.0
+Flat,2550000,Karachi,0,0,Kanal,1.3
+House,32400000,Islamabad,3,3,Kanal,1.0
+House,31900000,Lahore,6,5,Kanal,1.0
+Lower Portion,67000,Karachi,3,3,Kanal,1.0
+House,218000,Karachi,5,5,Kanal,1.0
+House,29900000,Islamabad,4,3,Kanal,1.0
+House,43200000,Lahore,6,5,Kanal,1.0
+House,39600000,Lahore,6,5,Kanal,1.0
+House,248000,Islamabad,2,2,Kanal,1.0
+Upper Portion,40500,Rawalpindi,3,3,Kanal,1.0
+House,34500000,Lahore,4,2,Kanal,1.0
+House,97000,Faisalabad,5,5,Kanal,1.0
+House,27800000,Lahore,7,5,Kanal,1.0
+House,34500000,Lahore,7,5,Kanal,1.0
+House,44400000,Islamabad,7,6,Kanal,1.0
+House,45500000,Lahore,3,5,Kanal,1.0
+House,42900000,Lahore,6,5,Kanal,1.0
+House,30900000,Lahore,7,5,Kanal,1.0
+House,34500000,Lahore,8,6,Kanal,1.0
+House,6500,Faisalabad,1,0,Kanal,3.0
+Room,10000,Karachi,0,0,Kanal,1.0
+Upper Portion,98000,Karachi,3,3,Kanal,1.0
+House,45500000,Lahore,6,6,Kanal,1.0
+House,42600000,Rawalpindi,8,6,Kanal,1.0
+House,24900000,Lahore,3,3,Kanal,1.0
+House,255000,Karachi,7,6,Kanal,1.0
+House,950000,Islamabad,0,0,Kanal,2.0
+Lower Portion,33000,Islamabad,0,2,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+Upper Portion,43000,Islamabad,0,0,Kanal,1.0
+House,36400000,Lahore,6,6,Kanal,1.0
+House,57000,Islamabad,4,4,Kanal,1.0
+Upper Portion,43000,Islamabad,0,3,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+Flat,12800000,Karachi,3,3,Kanal,3.5
+Upper Portion,46000,Islamabad,0,3,Kanal,1.0
+House,4490000,Lahore,3,3,Kanal,3.0
+House,35900000,Lahore,6,5,Kanal,1.0
+House,35800000,Lahore,7,5,Kanal,1.0
+House,45500000,Lahore,7,5,Kanal,1.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+Upper Portion,43000,Islamabad,2,3,Kanal,1.0
+Upper Portion,46000,Islamabad,3,3,Kanal,1.0
+Room,13000,Islamabad,0,0,Kanal,1.0
+Upper Portion,43000,Islamabad,3,3,Kanal,1.0
+Upper Portion,76000,Islamabad,4,3,Kanal,1.0
+House,34500000,Islamabad,6,5,Kanal,1.0
+House,45500000,Islamabad,6,5,Kanal,1.0
+House,3550000,Islamabad,0,0,Kanal,4.0
+House,34500000,Lahore,7,5,Kanal,1.0
+Upper Portion,87000,Islamabad,3,3,Kanal,1.0
+Upper Portion,43000,Islamabad,3,3,Kanal,1.0
+Lower Portion,48500,Islamabad,4,4,Kanal,1.0
+Lower Portion,57000,Rawalpindi,3,3,Kanal,1.0
+House,31600000,Lahore,4,4,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+House,35900000,Lahore,6,5,Kanal,1.0
+House,1680000,Islamabad,0,0,Kanal,4.0
+House,34900000,Lahore,6,5,Kanal,1.0
+Lower Portion,33000,Islamabad,3,3,Kanal,1.0
+Upper Portion,43000,Islamabad,4,3,Kanal,1.0
+Lower Portion,252000,Islamabad,3,3,Kanal,2.4
+Upper Portion,43000,Islamabad,4,3,Kanal,1.0
+House,34500000,Lahore,5,4,Kanal,1.0
+House,29900000,Lahore,6,5,Kanal,1.0
+House,45500000,Islamabad,7,6,Kanal,1.0
+Lower Portion,2280000,Faisalabad,0,0,Kanal,4.2
+Upper Portion,87000,Islamabad,0,0,Kanal,1.0
+Upper Portion,78000,Islamabad,3,3,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+Lower Portion,57000,Islamabad,4,3,Kanal,1.0
+House,32200000,Lahore,6,5,Kanal,1.0
+Farm House,6300000,Rawalpindi,0,0,Kanal,2.0
+House,33600000,Lahore,4,3,Kanal,1.0
+House,29900000,Lahore,6,4,Kanal,1.0
+Upper Portion,43000,Islamabad,4,3,Kanal,1.0
+House,40400000,Lahore,6,5,Kanal,1.0
+House,42200000,Lahore,6,5,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+Lower Portion,43000,Islamabad,3,3,Kanal,1.0
+House,41200000,Lahore,6,5,Kanal,1.0
+House,40800000,Lahore,6,5,Kanal,1.0
+House,29700000,Lahore,7,6,Kanal,1.0
+House,146000,Islamabad,7,7,Kanal,1.0
+House,48200000,Lahore,6,5,Kanal,1.0
+House,43200000,Lahore,6,5,Kanal,1.0
+House,348000,Islamabad,5,5,Kanal,1.1
+House,36800000,Rawalpindi,5,5,Kanal,1.0
+Flat,5700000,Karachi,2,2,Kanal,1.9
+House,45500000,Lahore,6,5,Kanal,1.0
+Upper Portion,43000,Islamabad,3,3,Kanal,1.0
+House,780000,Islamabad,0,0,Kanal,2.0
+Lower Portion,43000,Rawalpindi,3,3,Kanal,1.0
+House,1550000,Islamabad,7,6,Kanal,4.0
+Upper Portion,91000,Karachi,3,3,Kanal,1.0
+Farm House,2700000,Lahore,0,0,Kanal,1.0
+Lower Portion,61000,Karachi,3,3,Kanal,1.0
+House,24900000,Lahore,8,7,Kanal,1.0
+House,42400000,Lahore,6,5,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,890000,Islamabad,0,0,Kanal,2.0
+House,41200000,Lahore,6,5,Kanal,1.0
+House,42700000,Lahore,6,5,Kanal,1.0
+House,39200000,Lahore,6,5,Kanal,1.0
+House,1,Karachi,6,5,Kanal,1.0
+House,775000,Islamabad,0,0,Kanal,4.0
+Upper Portion,87000,Islamabad,3,3,Kanal,1.0
+House,21700000,Lahore,4,4,Kanal,1.0
+House,21800000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,43200000,Lahore,6,5,Kanal,1.0
+Upper Portion,78000,Islamabad,0,0,Kanal,1.0
+House,950000,Islamabad,8,7,Kanal,2.0
+House,34500000,Lahore,7,6,Kanal,1.0
+House,34500000,Lahore,5,5,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+House,42400000,Lahore,6,5,Kanal,1.0
+House,29900000,Lahore,0,0,Kanal,1.0
+House,31400000,Lahore,5,5,Kanal,1.0
+House,41700000,Lahore,6,5,Kanal,1.0
+House,815000,Islamabad,7,7,Kanal,2.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,17200000,Lahore,0,4,Kanal,1.0
+House,40600000,Lahore,0,5,Kanal,1.0
+House,40200000,Lahore,5,4,Kanal,1.6
+House,41800000,Islamabad,7,7,Kanal,1.0
+House,40900000,Lahore,6,5,Kanal,1.0
+Upper Portion,43000,Islamabad,4,3,Kanal,1.0
+Upper Portion,43000,Islamabad,5,4,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+House,41600000,Lahore,6,5,Kanal,1.0
+House,47400000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+Upper Portion,78000,Islamabad,3,3,Kanal,1.0
+Upper Portion,49000,Islamabad,4,4,Kanal,1.0
+House,42900000,Lahore,6,5,Kanal,1.0
+House,18100000,Lahore,0,0,Kanal,1.0
+House,19800000,Lahore,3,4,Kanal,1.0
+House,41100000,Lahore,6,5,Kanal,1.0
+House,40600000,Lahore,0,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+House,43600000,Lahore,7,6,Kanal,1.2
+House,40500000,Lahore,0,4,Kanal,1.0
+House,40200000,Lahore,5,4,Kanal,1.6
+House,32900000,Lahore,6,5,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,20100000,Lahore,4,4,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20400000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+Upper Portion,43000,Islamabad,4,3,Kanal,1.0
+House,32200000,Lahore,5,6,Kanal,1.0
+House,34500000,Lahore,7,6,Kanal,1.0
+House,37200000,Lahore,6,5,Kanal,1.0
+House,41900000,Lahore,6,5,Kanal,1.0
+House,36900000,Lahore,5,5,Kanal,1.0
+House,34700000,Lahore,4,4,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+Farm House,0,Karachi,0,0,Kanal,8.0
+Lower Portion,57000,Islamabad,0,0,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,21300000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,38400000,Karachi,8,5,Kanal,1.0
+House,29900000,Islamabad,8,7,Kanal,1.0
+House,29700000,Islamabad,8,7,Kanal,1.0
+Upper Portion,78000,Islamabad,6,6,Kanal,1.0
+House,45500000,Lahore,7,6,Kanal,1.0
+House,29900000,Lahore,5,4,Kanal,1.0
+House,1099000,Islamabad,7,7,Kanal,1.1
+House,45500000,Lahore,6,5,Kanal,1.0
+Upper Portion,43000,Rawalpindi,3,3,Kanal,1.0
+Upper Portion,78000,Islamabad,4,4,Kanal,1.0
+House,21800000,Lahore,4,4,Kanal,1.0
+House,25200000,Lahore,4,4,Kanal,1.0
+House,22200000,Lahore,4,4,Kanal,1.0
+House,24200000,Lahore,4,4,Kanal,1.0
+House,23600000,Lahore,4,4,Kanal,1.0
+House,23700000,Lahore,4,4,Kanal,1.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,820000,Islamabad,0,0,Kanal,2.0
+House,880000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,820000,Islamabad,0,0,Kanal,2.0
+House,880000,Islamabad,0,0,Kanal,2.0
+House,890000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,980000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,37300000,Lahore,6,5,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+Lower Portion,46000,Islamabad,4,3,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+House,42700000,Lahore,6,5,Kanal,1.0
+House,45500000,Islamabad,7,6,Kanal,1.0
+Lower Portion,57000,Islamabad,5,3,Kanal,1.0
+Upper Portion,46000,Islamabad,3,3,Kanal,1.0
+House,19800000,Rawalpindi,6,7,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,7,5,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,8,6,Kanal,1.0
+Upper Portion,33000,Islamabad,3,3,Kanal,1.0
+House,610000,Karachi,7,6,Kanal,2.0
+Upper Portion,43000,Karachi,2,2,Kanal,1.0
+Upper Portion,46000,Rawalpindi,4,4,Kanal,1.0
+Lower Portion,2280000,Faisalabad,0,0,Kanal,4.2
+House,41200000,Islamabad,0,0,Kanal,1.0
+House,34500000,Islamabad,5,5,Kanal,1.0
+House,24800000,Lahore,6,4,Kanal,1.0
+Lower Portion,33000,Islamabad,0,0,Kanal,1.0
+House,97000,Rawalpindi,0,0,Kanal,1.0
+House,23300000,Lahore,3,4,Kanal,1.0
+House,23600000,Lahore,3,4,Kanal,1.0
+House,24200000,Lahore,3,4,Kanal,1.0
+House,24800000,Lahore,3,4,Kanal,1.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,5,5,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+House,45200000,Islamabad,7,7,Kanal,1.0
+House,44800000,Islamabad,7,7,Kanal,1.0
+House,45300000,Islamabad,7,7,Kanal,1.0
+Flat,3800000,Karachi,1,1,Kanal,1.6
+House,34500000,Lahore,5,4,Kanal,1.0
+House,23800000,Lahore,3,4,Kanal,1.0
+House,24200000,Lahore,3,4,Kanal,1.0
+House,24200000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,23200000,Lahore,3,4,Kanal,1.0
+House,23900000,Lahore,3,4,Kanal,1.0
+House,23300000,Lahore,3,4,Kanal,1.0
+House,34500000,Lahore,5,5,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,720000,Islamabad,0,0,Kanal,2.0
+House,32800000,Lahore,8,7,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+Upper Portion,78000,Islamabad,4,4,Kanal,1.0
+House,34500000,Lahore,5,5,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20400000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+Lower Portion,134000,Islamabad,3,3,Kanal,1.3
+Lower Portion,133000,Islamabad,3,3,Kanal,1.3
+Lower Portion,132000,Islamabad,3,3,Kanal,1.3
+Lower Portion,131000,Islamabad,3,3,Kanal,1.3
+Lower Portion,129000,Islamabad,3,3,Kanal,1.3
+Lower Portion,127000,Islamabad,3,3,Kanal,1.3
+Upper Portion,43000,Karachi,2,2,Kanal,1.0
+Lower Portion,124000,Islamabad,3,3,Kanal,1.3
+Lower Portion,114000,Islamabad,3,3,Kanal,1.3
+Lower Portion,109000,Islamabad,3,3,Kanal,1.3
+Lower Portion,106000,Islamabad,3,3,Kanal,1.3
+Lower Portion,107000,Islamabad,3,3,Kanal,1.3
+Lower Portion,104000,Islamabad,3,3,Kanal,1.3
+Lower Portion,103000,Islamabad,3,3,Kanal,1.3
+Lower Portion,102000,Islamabad,3,3,Kanal,1.3
+House,97000,Faisalabad,0,0,Kanal,1.0
+House,46800000,Lahore,6,5,Kanal,1.0
+Upper Portion,78000,Islamabad,4,3,Kanal,1.0
+House,40900000,Lahore,6,5,Kanal,1.0
+Upper Portion,44000,Islamabad,2,2,Kanal,1.0
+Upper Portion,46000,Islamabad,4,4,Kanal,1.0
+Flat,12300000,Karachi,3,5,Kanal,2.3
+House,41200000,Lahore,6,5,Kanal,1.0
+House,335000,Karachi,6,5,Kanal,1.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,41900000,Lahore,6,5,Kanal,1.0
+House,422000,Islamabad,8,7,Kanal,1.2
+House,45500000,Lahore,6,5,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20400000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,98000,Islamabad,7,6,Kanal,1.0
+House,35800000,Lahore,7,5,Kanal,1.0
+House,41800000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,44800000,Lahore,7,5,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,17800000,Lahore,4,4,Kanal,1.0
+House,17700000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,40500000,Lahore,0,4,Kanal,1.0
+House,21800000,Lahore,3,4,Kanal,1.0
+House,21800000,Lahore,3,4,Kanal,1.0
+House,22800000,Lahore,3,4,Kanal,1.0
+House,21200000,Lahore,3,4,Kanal,1.0
+House,38900000,Lahore,6,5,Kanal,1.0
+House,41900000,Lahore,6,5,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,43900000,Lahore,6,5,Kanal,1.0
+Flat,2250000,Karachi,1,1,Kanal,1.1
+Flat,2250000,Karachi,1,1,Kanal,1.1
+House,45500000,Lahore,7,6,Kanal,1.0
+House,40500000,Lahore,6,5,Kanal,1.0
+Flat,2250000,Karachi,1,1,Kanal,1.1
+Upper Portion,78000,Islamabad,5,4,Kanal,1.0
+House,296000,Islamabad,7,6,Kanal,1.2
+Upper Portion,49000,Rawalpindi,3,3,Kanal,1.0
+Upper Portion,44000,Islamabad,4,4,Kanal,1.0
+Lower Portion,57000,Islamabad,0,0,Kanal,1.0
+Flat,7600000,Karachi,2,4,Kanal,2.0
+House,20200000,Rawalpindi,0,6,Kanal,1.0
+Flat,457000,Islamabad,1,1,Kanal,8.6
+House,42100000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,3700000,Lahore,7,5,Kanal,1.1
+House,35800000,Lahore,7,5,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,23800000,Lahore,3,4,Kanal,1.0
+Farm House,4275000,Lahore,0,0,Kanal,1.0
+House,38900000,Lahore,6,5,Kanal,1.0
+House,41900000,Lahore,6,5,Kanal,1.0
+House,43900000,Lahore,6,5,Kanal,1.0
+House,34500000,Islamabad,5,5,Kanal,1.0
+House,398000,Islamabad,7,6,Kanal,1.1
+Upper Portion,89000,Islamabad,3,3,Kanal,1.0
+Flat,4800000,Karachi,2,2,Kanal,1.9
+Upper Portion,44000,Islamabad,4,4,Kanal,1.0
+House,305000,Islamabad,0,0,Kanal,1.0
+House,255000,Islamabad,0,0,Kanal,1.0
+House,570000,Islamabad,0,0,Kanal,1.3
+House,305000,Islamabad,0,0,Kanal,1.0
+House,255000,Islamabad,0,0,Kanal,1.0
+House,570000,Islamabad,0,0,Kanal,1.3
+Flat,662000,Islamabad,2,2,Kanal,1.9
+House,675000,Islamabad,0,0,Kanal,2.0
+House,675000,Islamabad,0,0,Kanal,2.0
+House,242000,Islamabad,0,0,Kanal,1.0
+House,255000,Islamabad,0,0,Kanal,1.0
+House,378000,Islamabad,0,0,Kanal,1.3
+House,555000,Islamabad,0,0,Kanal,2.0
+House,610000,Islamabad,0,0,Kanal,2.0
+House,670000,Islamabad,0,0,Kanal,2.0
+House,218000,Islamabad,0,0,Kanal,1.0
+House,222000,Islamabad,0,0,Kanal,1.0
+House,228000,Islamabad,0,0,Kanal,1.0
+House,232000,Islamabad,0,0,Kanal,1.0
+House,233000,Islamabad,0,0,Kanal,1.0
+House,505000,Islamabad,0,0,Kanal,2.0
+House,515000,Islamabad,0,0,Kanal,2.0
+House,535000,Islamabad,0,0,Kanal,2.0
+House,710000,Islamabad,0,0,Kanal,2.0
+House,720000,Islamabad,0,0,Kanal,2.0
+House,740000,Islamabad,0,0,Kanal,2.0
+House,760000,Islamabad,0,0,Kanal,2.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,790000,Islamabad,0,0,Kanal,2.0
+House,810000,Islamabad,0,0,Kanal,2.0
+House,815000,Islamabad,0,0,Kanal,2.0
+House,820000,Islamabad,0,0,Kanal,2.0
+House,830000,Islamabad,0,0,Kanal,2.0
+House,840000,Islamabad,0,0,Kanal,2.0
+House,870000,Islamabad,0,0,Kanal,2.0
+House,880000,Islamabad,0,0,Kanal,2.0
+House,151000,Islamabad,0,5,Kanal,1.0
+House,151000,Islamabad,0,5,Kanal,1.0
+House,152000,Islamabad,0,5,Kanal,1.0
+House,152000,Islamabad,0,5,Kanal,1.0
+House,153000,Islamabad,0,5,Kanal,1.0
+House,153000,Islamabad,0,5,Kanal,1.0
+House,154000,Islamabad,0,5,Kanal,1.0
+House,154000,Islamabad,0,5,Kanal,1.0
+House,156000,Islamabad,0,5,Kanal,1.0
+House,156000,Islamabad,0,5,Kanal,1.0
+House,157000,Islamabad,0,5,Kanal,1.0
+House,157000,Islamabad,0,5,Kanal,1.0
+House,158000,Islamabad,0,5,Kanal,1.0
+House,158000,Islamabad,0,5,Kanal,1.0
+House,159000,Islamabad,0,5,Kanal,1.0
+House,159000,Islamabad,0,5,Kanal,1.0
+House,161000,Islamabad,0,5,Kanal,1.0
+House,161000,Islamabad,0,5,Kanal,1.0
+House,162000,Islamabad,0,5,Kanal,1.0
+House,163000,Islamabad,0,5,Kanal,1.0
+House,164000,Islamabad,0,5,Kanal,1.0
+House,163000,Islamabad,0,5,Kanal,1.0
+House,164000,Islamabad,0,5,Kanal,1.0
+House,44800000,Lahore,6,5,Kanal,1.0
+House,166000,Islamabad,0,5,Kanal,1.0
+House,167000,Islamabad,0,5,Kanal,1.0
+House,166000,Islamabad,0,5,Kanal,1.0
+House,167000,Islamabad,0,5,Kanal,1.0
+House,169000,Islamabad,0,5,Kanal,1.0
+House,169000,Islamabad,0,5,Kanal,1.0
+House,171000,Islamabad,0,5,Kanal,1.0
+House,171000,Islamabad,0,5,Kanal,1.0
+House,515000,Islamabad,0,0,Kanal,2.0
+House,535000,Islamabad,0,0,Kanal,2.0
+House,515000,Islamabad,0,0,Kanal,2.0
+House,535000,Islamabad,0,0,Kanal,2.0
+House,515000,Islamabad,0,0,Kanal,2.0
+House,535000,Islamabad,0,0,Kanal,2.0
+House,515000,Islamabad,0,0,Kanal,2.0
+House,535000,Islamabad,0,0,Kanal,2.0
+House,211000,Islamabad,0,6,Kanal,1.0
+House,212000,Islamabad,0,6,Kanal,1.0
+House,213000,Islamabad,0,6,Kanal,1.0
+House,214000,Islamabad,0,6,Kanal,1.0
+House,216000,Islamabad,0,6,Kanal,1.0
+House,217000,Islamabad,0,6,Kanal,1.0
+House,218000,Islamabad,0,6,Kanal,1.0
+House,219000,Islamabad,0,6,Kanal,1.0
+House,221000,Islamabad,0,6,Kanal,1.0
+House,222000,Islamabad,0,6,Kanal,1.0
+House,223000,Islamabad,0,6,Kanal,1.0
+House,224000,Islamabad,0,6,Kanal,1.0
+House,226000,Islamabad,0,6,Kanal,1.0
+House,227000,Islamabad,0,6,Kanal,1.0
+House,228000,Islamabad,0,6,Kanal,1.0
+House,229000,Islamabad,0,6,Kanal,1.0
+House,231000,Islamabad,0,6,Kanal,1.0
+House,232000,Islamabad,0,6,Kanal,1.0
+House,233000,Islamabad,0,6,Kanal,1.0
+House,234000,Islamabad,0,6,Kanal,1.0
+House,236000,Islamabad,0,6,Kanal,1.0
+House,237000,Islamabad,0,6,Kanal,1.0
+House,238000,Islamabad,0,6,Kanal,1.0
+House,239000,Islamabad,0,6,Kanal,1.0
+House,241000,Islamabad,0,6,Kanal,1.0
+House,242000,Islamabad,0,6,Kanal,1.0
+House,243000,Islamabad,0,6,Kanal,1.0
+House,244000,Islamabad,0,6,Kanal,1.0
+House,246000,Islamabad,0,6,Kanal,1.0
+House,247000,Islamabad,0,6,Kanal,1.0
+House,249000,Islamabad,0,6,Kanal,1.0
+Flat,4400000,Islamabad,2,2,Kanal,1.6
+House,41700000,Lahore,6,5,Kanal,1.0
+Flat,6200000,Karachi,2,2,Kanal,1.9
+Flat,11900000,Karachi,3,3,Kanal,3.6
+Farm House,9600000,Islamabad,0,0,Kanal,8.0
+House,705000,Karachi,5,5,Kanal,2.0
+Lower Portion,33000,Rawalpindi,0,0,Kanal,1.0
+Flat,2250000,Karachi,1,1,Kanal,1.1
+House,36900000,Lahore,6,5,Kanal,1.0
+House,41900000,Lahore,6,5,Kanal,1.0
+Farm House,2800000,Rawalpindi,0,0,Kanal,2.0
+Farm House,3080000,Rawalpindi,0,0,Kanal,2.0
+Farm House,3220000,Rawalpindi,0,0,Kanal,2.0
+Farm House,6600000,Rawalpindi,0,0,Kanal,4.0
+Farm House,6900000,Rawalpindi,0,0,Kanal,4.0
+Farm House,12100000,Rawalpindi,0,0,Kanal,8.0
+Farm House,12600000,Rawalpindi,0,0,Kanal,8.0
+Flat,2250000,Karachi,1,1,Kanal,1.1
+House,45500000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,45500000,Islamabad,7,6,Kanal,1.0
+Upper Portion,78000,Islamabad,3,3,Kanal,1.0
+Flat,5100000,Karachi,2,2,Kanal,1.9
+House,34500000,Lahore,4,4,Kanal,1.0
+House,44400000,Lahore,7,6,Kanal,1.0
+Upper Portion,78000,Islamabad,4,4,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,33900000,Lahore,6,5,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,4950000,Karachi,1,0,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20400000,Lahore,4,4,Kanal,1.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,870000,Islamabad,0,0,Kanal,2.0
+House,890000,Islamabad,0,0,Kanal,2.0
+House,930000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,960000,Islamabad,0,0,Kanal,2.0
+House,980000,Islamabad,0,0,Kanal,2.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,471000,Islamabad,4,6,Kanal,1.3
+House,41800000,Lahore,6,5,Kanal,1.0
+Upper Portion,71000,Islamabad,3,3,Kanal,1.0
+Upper Portion,66000,Islamabad,3,3,Kanal,1.0
+Upper Portion,46000,Islamabad,4,4,Kanal,1.0
+Lower Portion,44000,Islamabad,3,3,Kanal,1.0
+House,71000,Islamabad,4,4,Kanal,1.0
+House,44000,Islamabad,3,3,Kanal,1.0
+House,29900000,Islamabad,8,7,Kanal,1.0
+House,29700000,Islamabad,8,7,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,17800000,Lahore,4,4,Kanal,1.0
+House,34500000,Lahore,0,5,Kanal,1.0
+Flat,7800000,Karachi,3,3,Kanal,2.8
+House,228000,Karachi,5,5,Kanal,1.0
+Flat,9800000,Karachi,3,3,Kanal,2.9
+House,599000,Islamabad,6,6,Kanal,2.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,21800000,Lahore,4,4,Kanal,1.0
+House,21800000,Lahore,4,4,Kanal,1.0
+House,22200000,Lahore,4,4,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,20300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,37100000,Faisalabad,0,0,Kanal,1.0
+Farm House,6400000,Lahore,0,0,Kanal,4.0
+Farm House,13600000,Lahore,0,0,Kanal,8.0
+House,39600000,Islamabad,7,7,Kanal,1.0
+House,39600000,Islamabad,7,7,Kanal,1.0
+House,39400000,Islamabad,7,7,Kanal,1.0
+House,39400000,Islamabad,7,7,Kanal,1.0
+House,39200000,Islamabad,7,7,Kanal,1.0
+House,39200000,Islamabad,7,7,Kanal,1.0
+House,38400000,Lahore,6,5,Kanal,1.0
+Flat,6800000,Karachi,2,2,Kanal,1.7
+House,1240000,Islamabad,8,6,Kanal,2.1
+Upper Portion,89000,Islamabad,3,3,Kanal,1.0
+House,324000,Islamabad,8,7,Kanal,1.0
+House,1650000,Islamabad,9,6,Kanal,4.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,880000,Islamabad,0,0,Kanal,2.0
+House,830000,Islamabad,0,0,Kanal,2.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,980000,Islamabad,0,0,Kanal,2.0
+House,960000,Islamabad,0,0,Kanal,2.0
+House,950000,Islamabad,0,0,Kanal,2.0
+House,930000,Islamabad,0,0,Kanal,2.0
+House,890000,Islamabad,0,0,Kanal,2.0
+House,870000,Islamabad,0,0,Kanal,2.0
+Flat,1480000,Karachi,1,1,Kanal,1.2
+House,780000,Islamabad,0,0,Kanal,2.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,26800000,Lahore,4,4,Kanal,1.0
+House,41600000,Lahore,5,5,Kanal,1.0
+House,9900000,Karachi,0,0,Kanal,1.0
+Flat,5850000,Karachi,2,2,Kanal,1.6
+House,37700000,Lahore,6,5,Kanal,1.0
+Flat,4100000,Karachi,2,2,Kanal,2.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+Upper Portion,49000,Islamabad,3,3,Kanal,1.0
+Upper Portion,87000,Islamabad,4,4,Kanal,1.0
+House,30800000,Lahore,6,6,Kanal,1.0
+Flat,7200000,Karachi,2,2,Kanal,2.1
+House,78000,Islamabad,0,3,Kanal,1.0
+Farm House,6600000,Rawalpindi,0,0,Kanal,4.0
+Farm House,6900000,Rawalpindi,0,0,Kanal,4.0
+House,23300000,Lahore,3,4,Kanal,1.0
+House,20800000,Lahore,3,4,Kanal,1.0
+House,22300000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+Farm House,12100000,Rawalpindi,0,0,Kanal,8.0
+Farm House,12600000,Rawalpindi,0,0,Kanal,8.0
+Lower Portion,33000,Rawalpindi,0,0,Kanal,1.0
+Flat,2250000,Karachi,1,1,Kanal,1.1
+Farm House,4275000,Lahore,0,0,Kanal,1.0
+House,45500000,Lahore,6,5,Kanal,1.0
+House,45500000,Islamabad,6,5,Kanal,1.0
+Flat,5400000,Karachi,3,3,Kanal,2.1
+House,166000,Islamabad,0,5,Kanal,1.0
+House,167000,Islamabad,0,5,Kanal,1.0
+House,166000,Islamabad,0,5,Kanal,1.0
+House,167000,Islamabad,0,5,Kanal,1.0
+House,169000,Islamabad,0,5,Kanal,1.0
+House,169000,Islamabad,0,5,Kanal,1.0
+House,171000,Islamabad,0,5,Kanal,1.0
+House,171000,Islamabad,0,5,Kanal,1.0
+House,211000,Islamabad,0,6,Kanal,1.0
+House,212000,Islamabad,0,6,Kanal,1.0
+House,213000,Islamabad,0,6,Kanal,1.0
+House,214000,Islamabad,0,6,Kanal,1.0
+House,216000,Islamabad,0,6,Kanal,1.0
+House,217000,Islamabad,0,6,Kanal,1.0
+House,218000,Islamabad,0,6,Kanal,1.0
+House,221000,Islamabad,0,6,Kanal,1.0
+House,222000,Islamabad,0,6,Kanal,1.0
+House,223000,Islamabad,0,6,Kanal,1.0
+House,224000,Islamabad,0,6,Kanal,1.0
+House,226000,Islamabad,0,6,Kanal,1.0
+House,227000,Islamabad,0,6,Kanal,1.0
+House,228000,Islamabad,0,6,Kanal,1.0
+House,229000,Islamabad,0,6,Kanal,1.0
+House,231000,Islamabad,0,6,Kanal,1.0
+House,232000,Islamabad,0,6,Kanal,1.0
+House,233000,Islamabad,0,6,Kanal,1.0
+House,234000,Islamabad,0,6,Kanal,1.0
+House,236000,Islamabad,0,6,Kanal,1.0
+House,237000,Islamabad,0,6,Kanal,1.0
+House,238000,Islamabad,0,6,Kanal,1.0
+House,241000,Islamabad,0,6,Kanal,1.0
+House,242000,Islamabad,0,6,Kanal,1.0
+House,243000,Islamabad,0,6,Kanal,1.0
+House,244000,Islamabad,0,6,Kanal,1.0
+House,246000,Islamabad,0,6,Kanal,1.0
+House,247000,Islamabad,0,6,Kanal,1.0
+House,248000,Islamabad,0,6,Kanal,1.0
+House,249000,Islamabad,0,6,Kanal,1.0
+House,43800000,Islamabad,5,5,Kanal,1.0
+Flat,2900000,Karachi,2,2,Kanal,1.7
+House,19700000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,18300000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+House,13100000,Faisalabad,0,0,Kanal,1.0
+House,12900000,Faisalabad,0,0,Kanal,1.0
+House,2010000,Islamabad,5,5,Kanal,1.0
+House,20600000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,20900000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,21300000,Lahore,4,4,Kanal,1.0
+House,20200000,Lahore,4,4,Kanal,1.0
+House,19700000,Lahore,4,4,Kanal,1.0
+House,19300000,Lahore,4,4,Kanal,1.0
+House,19800000,Lahore,4,4,Kanal,1.0
+House,20800000,Lahore,4,4,Kanal,1.0
+House,18700000,Lahore,4,4,Kanal,1.0
+House,21200000,Lahore,4,4,Kanal,1.0
+House,20700000,Lahore,4,4,Kanal,1.0
+House,18200000,Lahore,4,4,Kanal,1.0
+Upper Portion,43000,Islamabad,3,3,Kanal,1.0
+House,34500000,Lahore,5,4,Kanal,1.0
+House,2300000,Islamabad,6,5,Kanal,4.0
+House,34900000,Lahore,8,7,Kanal,1.0
+House,9300000,Rawalpindi,0,0,Kanal,1.0
+House,22900000,Lahore,5,4,Kanal,12.0
+Upper Portion,49000,Islamabad,3,3,Kanal,1.0
+Upper Portion,44000,Islamabad,3,3,Kanal,1.0
+Farm House,15300000,Lahore,0,0,Kanal,5.1
+Farm House,9450000,Lahore,0,0,Kanal,3.1
+Lower Portion,57000,Islamabad,0,0,Kanal,1.0
+Upper Portion,43000,Islamabad,0,0,Kanal,1.0
+Farm House,7750000,Rawalpindi,0,0,Kanal,4.0
+Farm House,13400000,Rawalpindi,0,0,Kanal,8.0
+Farm House,4250000,Rawalpindi,0,0,Kanal,2.0
+Farm House,7750000,Rawalpindi,0,0,Kanal,4.0
+Farm House,13400000,Rawalpindi,0,0,Kanal,8.0
+House,745000,Karachi,7,6,Kanal,2.0
+Lower Portion,86000,Islamabad,0,3,Kanal,1.0
+Lower Portion,87000,Islamabad,0,3,Kanal,1.0
+House,34500000,Lahore,6,5,Kanal,1.0
+House,41900000,Lahore,6,5,Kanal,1.0
+Lower Portion,43000,Islamabad,5,5,Kanal,1.0
+House,16800000,Lahore,5,5,Kanal,1.0
+House,23300000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,23300000,Lahore,3,4,Kanal,1.0
+House,21800000,Lahore,3,4,Kanal,1.0
+House,22200000,Lahore,3,4,Kanal,1.0
+House,880000,Islamabad,0,0,Kanal,2.0
+House,830000,Islamabad,0,0,Kanal,2.0
+House,780000,Islamabad,0,0,Kanal,2.0
+House,29900000,Islamabad,8,7,Kanal,1.0
+House,29700000,Islamabad,8,7,Kanal,1.0
+House,980000,Islamabad,0,0,Kanal,2.0
+House,930000,Islamabad,0,0,Kanal,2.0
+House,890000,Islamabad,0,0,Kanal,2.0
+House,870000,Islamabad,0,0,Kanal,2.0
+House,895000,Karachi,7,6,Kanal,2.0
+House,376000,Islamabad,6,5,Kanal,2.0
+House,3900000,Rawalpindi,0,0,Kanal,4.0
+House,28700000,Islamabad,0,5,Kanal,1.0
+Upper Portion,44000,Islamabad,4,4,Kanal,1.0
+Flat,4150000,Karachi,2,2,Kanal,1.9
+Flat,1460000,Karachi,1,1,Kanal,1.2
+House,41800000,Lahore,6,5,Kanal,1.0
+House,1650000,Islamabad,9,6,Kanal,4.0
