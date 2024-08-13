@@ -8,7 +8,7 @@ body, html {
 }
 
 .img {
-  background: url('https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+  background-image: url(house.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   filter: blur(15px);
@@ -37,6 +37,7 @@ body, html {
   border-radius: 10px;
   z-index: 2;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin-left: 460px;
 }
 
 .h2 {
@@ -78,12 +79,12 @@ body, html {
   background: #dcd686;
   width: 25%;
   border: 0;
-  margin: 25px 0 10px;
+  margin: 25px 470px 10px;
   padding: 10px;
   box-sizing: border-box;
   font-size: 15px;
   height: 40px;
-  text-align: center;
+  align-items : center;
   border-radius: 5px;
 }
 
