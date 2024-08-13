@@ -14,7 +14,7 @@ function getAreaUnitValue() {
 }
 
 function getAreaSize() {
-  var uiAreaSize = document.getElementById("uiSqft");
+  var uiAreaSize = document.getElementById("uiarea_size");
   return parseFloat(uiAreaSize.value) || -1; // Get the value entered for area size
 }
 
@@ -44,7 +44,7 @@ function onClickedEstimatePrice() {
     type: homeType
   }, function(data, status) {
     console.log(data.estimated_price);
-    estPrice.innerHTML = "<h2>" + data.estimated_price.toString() + " Lakh</h2>";
+    estPrice.innerHTML = "<h2>" + data.estimated_price.toString() + " PKr</h2>";
     console.log(status);
   }).fail(function(xhr, status, error) {
     console.log("Request failed: " + status + ", " + error);
