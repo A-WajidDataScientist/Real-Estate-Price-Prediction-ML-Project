@@ -5,16 +5,16 @@ import numpy as np
 __locations = None
 __data_columns = None
 __model = None
-__type = None
+__types = None
 
-def get_estimated_price(location, baths, bedrooms, area_size, kanal, property_type):    
+def get_estimated_price(location, baths, bedrooms, area_size, kanal, type):    
     try:
         loc_index = __data_columns.index(location.lower())
     except:
         loc_index = -1
 
     try:
-        type_index = __data_columns.index(property_type.lower())
+        type_index = __data_columns.index(type.lower())
     except:
         type_index = -1
 
@@ -60,12 +60,12 @@ def get_location_names():
 def get_data_columns():
     return __data_columns
 
-def get_type():
-    return __type
+def get_type_names():
+    return __types
 
 if __name__ == '__main__':
     load_saved_artifacts()
     print(get_location_names())
-    print(get_type())
+    print(get_type_names())
     print(get_estimated_price('karachi', 3, 3, 12.2, 1, "house"))
     

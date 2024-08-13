@@ -1,62 +1,90 @@
 function getBathValue() {
-  var uiBathrooms = document.getElementsByName("uiBathrooms");
-  for(var i in uiBathrooms) {
-    if(uiBathrooms[i].checked) {
-        return parseInt(i)+1;
-    }
-  }
-  return -1; // Invalid Value
+  var uiBathrooms = document.getElementById("uibath");
+  return parseInt(uiBathrooms.value) || -1; // Get the value of the selected option
 }
 
 function getBHKValue() {
-  var uiBHK = document.getElementsByName("uiBHK");
-  for(var i in uiBHK) {
-    if(uiBHK[i].checked) {
-        return parseInt(i)+1;
-    }
-  }
-  return -1; // Invalid Value
+  var uiBHK = document.getElementById("uibedrooms");
+  return parseInt(uiBHK.value) || -1; // Get the value of the selected option
+}
+
+function getAreaUnitValue() {
+  var uiAreaUnit = document.getElementById("uiarea_unit");
+  return parseInt(uiAreaUnit.value) || -1; // Get the value of the selected option (0 or 1)
+}
+
+function getAreaSize() {
+  var uiAreaSize = document.getElementById("uiSqft");
+  return parseFloat(uiAreaSize.value) || -1; // Get the value entered for area size
+}
+
+function getHomeTypeValue() {
+  var uiHomeType = document.getElementById("uitype");
+  return uiHomeType.value; // Get the selected home type
 }
 
 function onClickedEstimatePrice() {
   console.log("Estimate price button clicked");
-  var sqft = document.getElementById("uiSqft");
-  var bhk = getBHKValue();
-  var bathrooms = getBathValue();
-  var location = document.getElementById("uiLocations");
+  var areaUnit = document.getElementById("uiarea_unit").value;
+  var bedrooms = document.getElementById("uibadrooms").value;
+  var bathrooms = document.getElementById("uibath").value;
+  var areaSize = document.getElementById("uiarea_size").value;
+  var homeType = document.getElementById("uitype").value;
+  var location = document.getElementById("uiLocations").value;
   var estPrice = document.getElementById("uiEstimatedPrice");
 
-  // var url = "http://127.0.0.1:5000/predict_home_price"; //Use this if you are NOT using nginx which is first 7 tutorials
-  var url = "/api/predict_home_price"; // Use this if  you are using nginx. i.e tutorial 8 and onwards
+  var url = "http://127.0.0.1:5000/predict_home_price";
 
   $.post(url, {
-      total_sqft: parseFloat(sqft.value),
-      bhk: bhk,
-      bath: bathrooms,
-      location: location.value
-  },function(data, status) {
-      console.log(data.estimated_price);
-      estPrice.innerHTML = "<h2>" + data.estimated_price.toString() + " Lakh</h2>";
-      console.log(status);
+    location: location,
+    bath: bathrooms,
+    bedrooms: bedrooms,
+    area_size: areaSize,
+    area_unit: areaUnit,
+    type: homeType
+  }, function(data, status) {
+    console.log(data.estimated_price);
+    estPrice.innerHTML = "<h2>" + data.estimated_price.toString() + " Lakh</h2>";
+    console.log(status);
+  }).fail(function(xhr, status, error) {
+    console.log("Request failed: " + status + ", " + error);
+    console.log(xhr.responseText);
   });
 }
 
 function onPageLoad() {
-  console.log( "document loaded" );
-  // var url = "http://127.0.0.1:5000/get_location_names"; // Use this if you are NOT using nginx which is first 7 tutorials
-  var url = "/api/get_location_names"; // Use this if  you are using nginx. i.e tutorial 8 and onwards
-  $.get(url,function(data, status) {
-      console.log("got response for get_location_names request");
-      if(data) {
-          var locations = data.locations;
-          var uiLocations = document.getElementById("uiLocations");
-          $('#uiLocations').empty();
-          for(var i in locations) {
-              var opt = new Option(locations[i]);
-              $('#uiLocations').append(opt);
-          }
+  console.log("document loaded");
+  var url = "http://127.0.0.1:5000/get_location_names"; // Adjust URL depending on your setup
+  $.get(url, function(data, status) {
+    console.log("got response for get_location_names request");
+    if (data) {
+      var locations = data.locations;
+      var uiLocations = document.getElementById("uiLocations");
+      $('#uiLocations').empty();
+      for (var i in locations) {
+        var opt = new Option(locations[i]);
+        $('#uiLocations').append(opt);
       }
+    }
   });
+  
+  console.log("document loaded");
+var url = "http://127.0.0.1:5000/get_types_names"; // Adjust URL depending on your setup
+$.get(url, function(data, status) {
+  console.log("got response for get_types_names request");
+  if (data) {
+    var type = data.types;
+    var uitype = document.getElementById("uitype");
+    $('#uitype').empty();
+    for (var i in type) {
+      var opt = new Option(type[i]);
+      $('#uitype').append(opt);
+    }
+  }
+});
+
 }
 
+
 window.onload = onPageLoad;
+

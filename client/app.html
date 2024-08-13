@@ -10,20 +10,33 @@
 <div class="img"></div>
 </div>
 
-<h2>Area Unit</h2>
+<h2>Area Unit (Marla: 0 or Kanal : 1 )</h2>
 	<div>
 		<select class="area_unit" name="" id="uiarea_unit">
 			<option value="" disabled="disabled" selected="selected">Choose a Area Unit</option>
-			<option>kanal</option>
-			<option>Marla</option>
+			<option>0</option>
+			<option>1</option>
 
 		</select>
 	</div>
 
+	<div class="img"></div>
+
+
+	<form class="form">
+		<h2>Area Size</h2>
+		<input class="area"  type="text" id="uiarea_size" class="floatLabel" name="Squareft" value="1 or 15">
+		</form>
+
+
+
+
+
+
 	<div>
 		<h2>Badrooms</h2>
 	</div>
-	<select class="badrooms" name="" id="uibedrooms">
+	<select class="badrooms" name="" id="uibadrooms">
 		<option value="" disabled="disabled" selected="selected">Choose a Bedrooms</option>
 		<option>1</option>
         <option>2</option>
@@ -54,6 +67,17 @@
 		<option>10</option>
 	</select>
 
+</div>
+<h2>Home Type</h2>
+<div>
+<select class="type" name="" id="uitype">
+<option value="" disabled="disabled" selected="selected">Choose a Location</option>
+<option>farm house</option>
+<option>flat</option>
+
+</select>
+</div>
+
 	</div>
 		<h2>Location</h2>
 	<div>
@@ -61,9 +85,7 @@
     <option value="" disabled="disabled" selected="selected">Choose a Location</option>
 		<option>Faisalabad</option>
         <option>Islamabad</option>
-		<option>Karachi</option>
-        <option>Lahore</option>
-		<option>Rawalpindi</option>
+		
   </select>
 </div>
 	<button class="submit" onclick="onClickedEstimatePrice()" type="button">Estimate Price</button>

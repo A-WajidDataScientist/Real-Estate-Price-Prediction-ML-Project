@@ -12,17 +12,27 @@ def get_location_names():
 
     return response
 
+@app.route('/get_types_names', methods=['GET'])
+def get_types_names():
+    response = jsonify({
+        'types': util.get_type_names()
+    })
+    response.headers.add('Access-Control-Allow-Origin', '*')
+
+    return response
+
 @app.route('/predict_home_price', methods=['GET', 'POST'])
 def predict_home_price():
-    location = request.form['location']
-    bath = int(request.form['bath'])
-    bedrooms = int(request.form['bedrooms'])
-    area_size = (request.form['area_size'])
-    kanal = (request.form['kanal'])
-    type = request.form['type']
-    
+    # Extract data from the form
+    location = request.form.get['location']
+    bath = int(request.form.get['bath'])
+    bedrooms = int(request.form.get['bedrooms'])
+    area_unit = int(request.form.get['area_unit'])
+    area_size = float(request.form.get['area_size'])
+    type = request.form.get['type']
+
     response = jsonify({
-        'estimated_price': util.get_estimated_price(location,bath,bedrooms,area_size,kanal,type)
+        'estimated_price': util.get_estimated_price(location, bath, bedrooms, area_size, area_unit, type)
     })
     response.headers.add('Access-Control-Allow-Origin', '*')
 
